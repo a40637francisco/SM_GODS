@@ -42,11 +42,11 @@ public class MainApplication {
         getProbs(brEngFile);
     }
 
-    private static void getProbs(BufferedReader brPorFile) throws IOException {
+    private static void getProbs(BufferedReader br) throws IOException {
         float totalnumberofsymbols = 0F;
         Map<Character,Integer> map = new HashMap<>();
 
-        totalnumberofsymbols = readAllSymbolsFromFile(brPorFile, totalnumberofsymbols, map);
+        totalnumberofsymbols = readAllSymbolsFromFile(br, totalnumberofsymbols, map);
         map = MapUtil.sortByValue(map);
         float finalTotalnumberofsymbols = totalnumberofsymbols;
         map.forEach((key, value) -> {
@@ -62,12 +62,12 @@ public class MainApplication {
         getProbFirstChar(brEngFile);
     }
 
-    private static void getProbFirstChar(BufferedReader brPorFile) throws IOException {
+    private static void getProbFirstChar(BufferedReader br) throws IOException {
         float totalnumberofsymbols = 0F;
         Map<Character,Integer> map = new HashMap<>();
 
         String line;
-        while((line = brPorFile.readLine()) != null){
+        while((line = br.readLine()) != null){
             if(line.length() > 0){
                 ++totalnumberofsymbols;
                 char c = line.charAt(0);
@@ -84,24 +84,34 @@ public class MainApplication {
     }
 
     private static void probOcurAposPalavra(BufferedReader brPorFile, BufferedReader brEngFile) throws IOException {
+        System.out.println("Probabilidades da Lingua Portuguesa");
+        probOfCHQchars(brPorFile);
+        System.out.println("Probabilidades da Lingua Inglesa");
+        probOfCHQchars(brEngFile);
+    }
+
+    private static void probOfCHQchars(BufferedReader br) throws IOException {
         float totalnumberofsymbols = 0F;
         Map<Character,Integer> map = new HashMap<>();
 
-        totalnumberofsymbols = readAllSymbolsFromFile(brPorFile, totalnumberofsymbols, map);
+        totalnumberofsymbols = readAllSymbolsFromFile(br, totalnumberofsymbols, map);
         map = MapUtil.sortByValue(map);
         float finalTotalnumberofsymbols = totalnumberofsymbols;
-        float probOfSequence = (map.get('c')/finalTotalnumberofsymbols)*
-                            (map.get('h')/finalTotalnumberofsymbols)*
-                (map.get('q')/finalTotalnumberofsymbols);
+        float probCChar = (map.get('c')/finalTotalnumberofsymbols);
+        float probHChar = (map.get('h')/finalTotalnumberofsymbols);
+        float probQChar = (map.get('q')/finalTotalnumberofsymbols);
         map.forEach((key, value) -> {
-            float res = (value*probOfSequence)/ finalTotalnumberofsymbols;
-            System.out.printf("chq%c -> %.10f%% \n",key,res * 100F);
+            float symbProb = (value/ finalTotalnumberofsymbols);
+            float symbCProb = symbProb * probCChar;
+            float symbHProb = symbProb * probHChar;
+            float symbQProb = symbProb * probQChar;
+            System.out.printf("c%c -> %.3f%% h%c -> %.3f%% q%c -> %.3f%% \n",key,symbCProb * 100F,key,symbHProb*100F,key,symbQProb*100F);
         });
     }
 
-    private static float readAllSymbolsFromFile(BufferedReader brPorFile, float totalnumberofsymbols, Map<Character, Integer> map) throws IOException {
+    private static float readAllSymbolsFromFile(BufferedReader br, float totalnumberofsymbols, Map<Character, Integer> map) throws IOException {
         String line;
-        while((line = brPorFile.readLine()) != null){
+        while((line = br.readLine()) != null){
             totalnumberofsymbols += line.length();
             for (char c:line.toCharArray())
                 if(map.containsKey(c)) map.put(c,map.get(c)+1);
