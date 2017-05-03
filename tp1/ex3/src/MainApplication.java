@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class MainApplication {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("1- Percentagem ocurrência Simbolos \n 2- Percentagem de ocorrência do primeiro símbolo de cada palavra \n" +
+        System.out.println("1- Percentagem ocurrência Simbolos \n2- Percentagem de ocorrência do primeiro símbolo de cada palavra \n" +
                 "3-Probabilidade de ocorrência de cada símbolo, numa palavra, após a ocorrência dos símbolos ‘c’, ‘h’ e ‘q’");
 
         char option = in.nextLine().charAt(0);
