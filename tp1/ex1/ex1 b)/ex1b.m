@@ -1,4 +1,4 @@
-function ex1b()
+function ex1b( )
 
 close all;
 
