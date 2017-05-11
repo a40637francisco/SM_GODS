@@ -16,7 +16,7 @@ public class MainApplication {
         String porFilePath = filePath + "/ListaPalavrasPT.txt";
         String engFilePath = filePath + "/ListaPalavrasEN.txt";
 
-        InputStream in1,in2;
+        FileInputStream in1,in2;
         BufferedReader brPor,brEng;
         try {
             in1 = new FileInputStream(new File(porFilePath));
@@ -27,7 +27,7 @@ public class MainApplication {
             switch(option){
                 case '1' : probSimbolos(brPor,brEng); break;
                 case '2' : probPrimeiroSimbolo(brPor,brEng); break;
-                case '3' : probOcurAposPalavra(brPor,brEng); break;
+                case '3' : probOcurAposPalavra(in1,in2); break;
             }
 
         } catch (Exception e) {
@@ -43,10 +43,10 @@ public class MainApplication {
     }
 
     private static void getProbs(BufferedReader br) throws IOException {
-        float totalnumberofsymbols = 0F;
+
         Map<Character,Integer> map = new HashMap<>();
 
-        totalnumberofsymbols = readAllSymbolsFromFile(br, totalnumberofsymbols, map);
+        float totalnumberofsymbols = readAllSymbolsFromFile(br, map);
         map = MapUtil.sortByValue(map);
         float finalTotalnumberofsymbols = totalnumberofsymbols;
         map.forEach((key, value) -> {
@@ -83,33 +83,55 @@ public class MainApplication {
         });
     }
 
-    private static void probOcurAposPalavra(BufferedReader brPorFile, BufferedReader brEngFile) throws IOException {
+    private static void probOcurAposPalavra(FileInputStream inPorFile, FileInputStream inEngFile) throws IOException {
+
         System.out.println("Probabilidades da Lingua Portuguesa");
-        probOfCHQchars(brPorFile);
+        probOfCHQchars(inPorFile);
         System.out.println("Probabilidades da Lingua Inglesa");
-        probOfCHQchars(brEngFile);
+        probOfCHQchars(inEngFile);
     }
 
-    private static void probOfCHQchars(BufferedReader br) throws IOException {
-        float totalnumberofsymbols = 0F;
+    private static void probOfCHQchars(FileInputStream in) throws IOException {
+        BufferedReader br = new BufferedReader ( new InputStreamReader(in, StandardCharsets.ISO_8859_1));
+        System.out.println("Character C");
+        getProbAfterCharOccur(br,'c');
+        in.getChannel().position(0);
+        br = new BufferedReader(new InputStreamReader(in));
+        System.out.println("Character H");
+        getProbAfterCharOccur(br,'h');
+        in.getChannel().position(0);
+        System.out.println("Character Q");
+        br = new BufferedReader(new InputStreamReader(in));
+        getProbAfterCharOccur(br,'q');
+    }
+
+    private static void getProbAfterCharOccur(BufferedReader br, char char_to_search) throws IOException {
         Map<Character,Integer> map = new HashMap<>();
 
-        totalnumberofsymbols = readAllSymbolsFromFile(br, totalnumberofsymbols, map);
+        float totalnumberofsymbols = 0F;
+        String line;
+        while((line = br.readLine()) != null){
+            if(line.indexOf(char_to_search) != -1) {
+                totalnumberofsymbols ++;
+                for(int i=1; i<line.length();++i){
+                    if(line.charAt(i) == char_to_search) {
+                        char c = line.charAt(i-1);
+                        if (map.containsKey(c)) map.put(c, map.get(c) + 1);
+                        else map.put(c, 1);
+                    }
+                }
+            }
+        }
         map = MapUtil.sortByValue(map);
         float finalTotalnumberofsymbols = totalnumberofsymbols;
-        float probCChar = (map.get('c')/finalTotalnumberofsymbols);
-        float probHChar = (map.get('h')/finalTotalnumberofsymbols);
-        float probQChar = (map.get('q')/finalTotalnumberofsymbols);
         map.forEach((key, value) -> {
             float symbProb = (value/ finalTotalnumberofsymbols);
-            float symbCProb = symbProb * probCChar;
-            float symbHProb = symbProb * probHChar;
-            float symbQProb = symbProb * probQChar;
-            System.out.printf("c%c -> %.3f%% h%c -> %.3f%% q%c -> %.3f%% \n",key,symbCProb * 100F,key,symbHProb*100F,key,symbQProb*100F);
+            System.out.printf("%c%c -> %.3f%% \n",char_to_search,key,symbProb * 100F);
         });
     }
 
-    private static float readAllSymbolsFromFile(BufferedReader br, float totalnumberofsymbols, Map<Character, Integer> map) throws IOException {
+    private static float readAllSymbolsFromFile(BufferedReader br, Map<Character, Integer> map) throws IOException {
+        float totalnumberofsymbols = 0F;
         String line;
         while((line = br.readLine()) != null){
             totalnumberofsymbols += line.length();

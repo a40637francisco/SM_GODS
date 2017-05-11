@@ -1,8 +1,6 @@
 import java.util.*;
 
-/**
- * Not made by us, credits goes to the creator.
- */
+
 public class MapUtil
 {
     public static <K, V extends Comparable<? super V>> Map<K, V>
