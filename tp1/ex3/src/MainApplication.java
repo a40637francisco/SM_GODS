@@ -7,32 +7,44 @@ import java.util.Scanner;
 public class MainApplication {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("1- Percentagem ocurrência Simbolos \n2- Percentagem de ocorrência do primeiro símbolo de cada palavra \n" +
-                "3-Probabilidade de ocorrência de cada símbolo, numa palavra, após a ocorrência dos símbolos ‘c’, ‘h’ e ‘q’");
-
-        char option = in.nextLine().charAt(0);
 
         String filePath = new File("").getAbsolutePath()+"/ListaPalavras";
         String porFilePath = filePath + "/ListaPalavrasPT.txt";
         String engFilePath = filePath + "/ListaPalavrasEN.txt";
 
-        FileInputStream in1,in2;
-        BufferedReader brPor,brEng;
-        try {
-            in1 = new FileInputStream(new File(porFilePath));
-            in2 = new FileInputStream(new File(engFilePath));
-            brPor = new BufferedReader ( new InputStreamReader(in1, StandardCharsets.ISO_8859_1));
-            brEng =  new BufferedReader ( new InputStreamReader(in2, StandardCharsets.ISO_8859_1));
+        char option;
+            try {
+                FileInputStream in1 = new FileInputStream(new File(porFilePath));
+                FileInputStream in2 = new FileInputStream(new File(engFilePath));
 
-            switch(option){
-                case '1' : probSimbolos(brPor,brEng); break;
-                case '2' : probPrimeiroSimbolo(brPor,brEng); break;
-                case '3' : probOcurAposPalavra(in1,in2); break;
+                do {
+                    System.out.println("1- Percentagem ocurrência Simbolos \n2- Percentagem de ocorrência do primeiro símbolo de cada palavra \n" +
+                            "3-Probabilidade de ocorrência de cada símbolo, numa palavra, após a ocorrência dos símbolos ‘c’, ‘h’ e ‘q’");
+                    option = in.nextLine().charAt(0);
+
+                    BufferedReader brPor = new BufferedReader(new InputStreamReader(in1, StandardCharsets.ISO_8859_1));
+                    BufferedReader brEng = new BufferedReader(new InputStreamReader(in2, StandardCharsets.ISO_8859_1));
+
+                    switch (option) {
+                        case '1':
+                            probSimbolos(brPor, brEng);
+                            break;
+                        case '2':
+                            probPrimeiroSimbolo(brPor, brEng);
+                            break;
+                        case '3':
+                            probOcurAposPalavra(in1, in2);
+                            break;
+                        default : break;
+                    }
+                    //RESET AOS READERS
+                    in1.getChannel().position(0);
+                    in2.getChannel().position(0);
+                }while(option != 0);
+
+            } catch (Exception e) {
+                e.printStackTrace();
             }
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
     }
 
     private static void probSimbolos(BufferedReader brPorFile, BufferedReader brEngFile) throws IOException {
@@ -91,17 +103,25 @@ public class MainApplication {
         probOfCHQchars(inEngFile);
     }
 
+
+    /**
+     * In this method, FileInputStream is received so it can reset the Reader for each iteration.
+     * @param in
+     * @throws IOException
+     */
     private static void probOfCHQchars(FileInputStream in) throws IOException {
         BufferedReader br = new BufferedReader ( new InputStreamReader(in, StandardCharsets.ISO_8859_1));
         System.out.println("Character C");
         getProbAfterCharOccur(br,'c');
+
         in.getChannel().position(0);
-        br = new BufferedReader(new InputStreamReader(in));
+        br = new BufferedReader(new InputStreamReader(in, StandardCharsets.ISO_8859_1));
         System.out.println("Character H");
         getProbAfterCharOccur(br,'h');
+
         in.getChannel().position(0);
         System.out.println("Character Q");
-        br = new BufferedReader(new InputStreamReader(in));
+        br = new BufferedReader(new InputStreamReader(in, StandardCharsets.ISO_8859_1));
         getProbAfterCharOccur(br,'q');
     }
 
@@ -113,9 +133,9 @@ public class MainApplication {
         while((line = br.readLine()) != null){
             if(line.indexOf(char_to_search) != -1) {
                 totalnumberofsymbols ++;
-                for(int i=1; i<line.length();++i){
+                for(int i=0; i<line.length()-2;++i){
                     if(line.charAt(i) == char_to_search) {
-                        char c = line.charAt(i-1);
+                        char c = line.charAt(i+1);
                         if (map.containsKey(c)) map.put(c, map.get(c) + 1);
                         else map.put(c, 1);
                     }
