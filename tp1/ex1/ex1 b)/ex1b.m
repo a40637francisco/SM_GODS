@@ -1,4 +1,4 @@
-function ex1b()
+function ex1b( )
 
 close all;
 
@@ -15,9 +15,7 @@ for i = 1 : length(MyFolderInfo)
     file_name = MyFolderInfo(i).name; 
         if(strcmp(file_name,'.') || strcmp(file_name,'..')) 
             continue;
-        end
-    index = index + 1;    
-        
+        end    
         
     original_file_names{index} = file_name;    
     file_name_output = [ file_name 'out' ];
@@ -45,6 +43,8 @@ for i = 1 : length(MyFolderInfo)
     entropias(index) = H;
     removedRates(index) = removed_rate;
     filesInitSize(index) = initial_length;
+    index = index + 1;    
+    
 end
     
 figure
@@ -64,21 +64,20 @@ for i = 1 : length(MyFolderInfo)
         if(strcmp(file_name,'.') || strcmp(file_name,'..')) 
             continue;
         end
-    index = index + 1;    
+  
     final_length = MyFolderInfo(i).bytes;
     
     removed_rate = (1 - final_length / filesInitSize(index) ) * 100;
     ceil(removed_rate)
     
     removedRates(index) = removed_rate;
-  % c(i) = file_name_output;
+    index = index + 1;  
       
 end
-
-figure
+figure()
     for i=1 : length(entropias)
-        plot(entropias(i),removedRates(i),original_file_names{i});
+        plot(entropias(i),removedRates(i),'.');
         hold on;
     end
 
-end
+
