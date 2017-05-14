@@ -1,0 +1,1 @@
+Ficheiros eram muito grandes para poder colocar no git. Portanto juntar os 5 primeiros ficheiros com o WinRar com o método Store.
