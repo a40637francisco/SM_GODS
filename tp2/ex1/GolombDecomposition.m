@@ -1,9 +1,9 @@
-function GolombDecomposition( file , M ,predictor)
+function [compRatio] = GolombDecomposition( file , M ,predictor)
   
     f = dir(file);
     size = f.bytes;
 
-    difFile = getDifImage(file,predictor);
+    difFile = getDifImage(file,predictor,size);
         
    [~,nrOfSymbols] = histFile(file,difFile);
    % Retirar os simbolos que ocorrem 0 vezes
@@ -12,7 +12,7 @@ function GolombDecomposition( file , M ,predictor)
    seq = GolombSequence(nrOfSymbols,M);
    relFreq = tabulate(difFile);
    
-   [values,order] = sort(relFreq(:,3),'descend');
+   [~,order] = sort(relFreq(:,3),'descend');
    sortedRelFreq = relFreq(order,:);
    
    fid = fopen( 'results.txt', 'wt' );
@@ -33,18 +33,20 @@ function GolombDecomposition( file , M ,predictor)
    
    fclose(fid);
    total_bytes = nbits / 8;
-   fprintf('bytes = %10d \n', total_bytes);
-   fprintf('compression ratio = %.2f %%\n',(total_bytes / size)*100);
+   %fprintf('bytes of original file = %10d \n', size);
+   %fprintf('bytes of compressed file = %10d \n', total_bytes);
+   compRatio = (total_bytes / size)*100;
+   %fprintf('compression ratio = %.2f %%\n',compRatio);
    
 end
 
 
-function [resimage] = getDifImage(file,predictor)
+function [resimage] = getDifImage(file,predictor,totalsize)
     % Ler a imagem a partir do ficheiro.
     fin=fopen(file,'r');
     
-    I=fread(fin); 
-    image=reshape(I,[256,256]);
+    I=fread(fin);
+    image=reshape(I,[sqrt(totalsize),sqrt(totalsize)]);
     [M,N] = size(image);
     
     filesize = M * N;
@@ -52,7 +54,12 @@ function [resimage] = getDifImage(file,predictor)
     count = 1;
     for i = 1 : M
         for j = 1 : N    
-            difImage(count) = 250+(image(j,i) - getPredition(image,predictor,j,i));
+            %+200 para anular valores negativos.
+            if(predictor ~= 0)
+                difImage(count) = 200 + (image(j,i) - getPredition(image,predictor,j,i));
+            else
+                difImage(count) = image(j,i);
+            end
             count = count + 1;
         end
     end
@@ -61,8 +68,6 @@ end
 
 function [dif] = getPredition(image,predictor,line,col)
     switch predictor
-        case 0
-            dif = image(line,col);
         case 1
             dif = predictor1(image,line,col); 
         case 2
@@ -85,6 +90,7 @@ function [dif] = getPredition(image,predictor,line,col)
 end
 
 function [out] = predictor1(image,line,col)
+    %Predictor 1 of JPEG
     if(line == 1 || col == 1)
         out = image(line,col);
     else
@@ -94,6 +100,7 @@ function [out] = predictor1(image,line,col)
 end
 
 function [out] = predictor2(image,line,col)
+    %Predictor 2 of JPEG
     if(line == 1 || col == 1)
         out = image(line,col);
     else
@@ -103,6 +110,7 @@ function [out] = predictor2(image,line,col)
 end
 
 function [out] = predictor3(image,line,col)
+    %Predictor 3 of JPEG
     if(line == 1 || col == 1)
         out = image(line,col);
     else
@@ -112,6 +120,7 @@ function [out] = predictor3(image,line,col)
 end
 
 function [out] = predictor4(image,line,col)
+    %Predictor 4 of JPEG
     if(line == 1 || col == 1)
         out = image(line,col);
     else
@@ -123,9 +132,7 @@ function [out] = predictor4(image,line,col)
 end
 
 function [out] = predictor5(image,line,col)
-    A = image(line,col-1);
-    B = image(line-1,col);
-    C = image(line-1,col-1);
+    %Predictor 5 of JPEG
     if(line == 1 || col == 1)
         out = image(line,col);
     else
@@ -137,7 +144,7 @@ function [out] = predictor5(image,line,col)
 end
 
 function [out] = predictor6(image,line,col)
-
+    %Predictor 6 of JPEG
     if(line == 1 || col == 1)
         out = image(line,col);
     else
@@ -149,6 +156,7 @@ function [out] = predictor6(image,line,col)
 end
 
 function [out] = predictor7(image,line,col)
+    %Predictor 7 of JPEG
     if(line == 1 || col == 1)
         out = image(line,col);
     else
@@ -159,6 +167,7 @@ function [out] = predictor7(image,line,col)
 end
 
 function [out] = predictor8(image,line,col)
+    %Predictor JPEG-LS
     if(line == 1 || col == 1)
         out = image(line,col);
     else

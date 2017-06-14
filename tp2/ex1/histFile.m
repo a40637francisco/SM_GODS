@@ -38,7 +38,7 @@ legend(['H(X)= ' num2str(H)]);
 xlabel(['distinct symbols = ' num2str(uniqueValues)])
 
 [s,e] = strtok(filename, '.');
-print( gcf, [s, '.png'], '-dpng'  );
+%print( gcf, [s, '.png'], '-dpng'  );
 
 return;
 
