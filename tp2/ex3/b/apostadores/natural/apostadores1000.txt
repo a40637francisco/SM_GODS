@@ -1,0 +1,1000 @@
+00000000 | Luisa Sílvia Barroqueiro | Bragança    Moncorvo    Souto da Velha    125    1 238 | 26-11-2016
+00000001 | Rosana Serralheiro | Vila Real    Sabrosa    Sabrosa    1 189     868 | 24-07-2016
+00000002 | Priscilo Valim | Braga    Braga    Tenões    1 067     213 | 22-01-2016
+00000003 | Valentim Borba | Açores    Nordeste    Salga    550    855 | 26-08-2016
+00000004 | Marta Vidal | Leiria    Alvaiázere    Maçãs de D. Maria    2 177     2 391 | 12-01-2016
+00000005 | Octávio Sá | Santarem    Torres Novas    Alcorochel    880    854 | 05-03-2016
+00000006 | Valdir Prudente | Coimbra    Vila Nova de Poiares    Arrifana    1 603     2 411 | 07-04-2016
+00000007 | Assunta Maristela Silvestre Barbosa | Coimbra    Penacova    Oliveira do Mondego    734    1 222 | 14-08-2016
+00000008 | Luciano Vidigal Ferro Camarinho | Madeira    Calheta (Madeira)    Paúl do Mar    885    170 | 09-08-2016
+00000009 | Raquel Felicia Belém | Aveiro    Sever do Vouga    Pessegueiro do Vouga    1 906     1 601 | 31-03-2016
+00000010 | Valquíria Pimentel | Viseu    Viseu    S. Cipriano    1 337     1 257 | 12-12-2016
+00000011 | Brígido Maciel | Guarda    Guarda    Cavadoude    366    598 | 28-01-2016
+00000012 | Pilar Frederica Vilaverde | Santarem    Tomar    Paialvo    2 850     2 226 | 14-01-2016
+00000013 | Cosme Palhares | Braga    Vila Nova de Famalicão    Mouquim    1 403     413 | 02-09-2016
+00000014 | Felicidade Alda Valgueiro Torcato | Vila Real    Sta. Marta de Penaguião    Lobrigos (S. João Baptista)    1 449     657 | 14-01-2016
+00000015 | Avelina Carminda Quintais | Viseu    Tondela    Tonda    1 115     869 | 19-06-2016
+00000016 | Regina Félix Ribas Freixo | Faro    Lagoa (Algarve)    Estômbar    4 658     2 383 | 11-05-2016
+00000017 | Clélia Sofia Malta Motta | Guarda    Guarda    Porto da Carne    398    168 | 15-01-2016
+00000018 | Guilhermina Clóvis Mendoça | Vila Real    Sta. Marta de Penaguião    Fontes    1 087     1 642 | 27-02-2016
+00000019 | Franklin Tristão Alvim Milheiriço | Viseu    Lamego    Magueija    742    1 035 | 03-06-2016
+00000020 | Jesabel Jasmim Belém Lobato | Viana do castelo    Arcos de Valdevez    Senharei    347    924 | 14-02-2016
+00000021 | Libânia Vanda Mendoza Vidal | Viseu    S. João da Pesqueira    Espinhosa    161    770 | 23-04-2016
+00000022 | Vera Silva | Braga    Vila Verde    Goãos    598    357 | 01-06-2016
+00000023 | Marcela Emídio Benevides Granjeiro | Porto    Felgueiras    Sousa    1 080     152 | 24-01-2016
+00000024 | Graziela Naves | Bragança    Bragança    Calvelhe    137    2 305 | 07-02-2016
+00000025 | Sabina Penteado | Açores    Lajes das Flores    Lomba    197    1 002 | 10-08-2016
+00000026 | Diogo Arménio Pessanha | Bragança    Alfândega da Fé    Gouveia    149    1 769 | 24-12-2016
+00000027 | Amália Quinzeiro | Porto    Porto    Massarelos    7 756     194 | 28-06-2016
+00000028 | Maurícia Mont'Alverne | Braga    Barcelos    Igreja Nova    445    190 | 20-07-2016
+00000029 | Valdemar Ferdinando Quinta Caparica | Coimbra    Tábua    Candosa    818    1 168 | 18-01-2016
+00000030 | Amilcar Moita | Vila Real    Vila Real    Mateus    2 545     455 | 08-09-2016
+00000031 | Custódia Sanches | Viana do castelo    Arcos de Valdevez    Cendufe    403    211 | 29-12-2016
+00000032 | Norberto Andrade | Bragança    Bragança    Outeiro    367    4 085 | 15-10-2016
+00000033 | Idalina Valadares | Viseu    Tarouca    Vila Chã da Beira    234    619 | 20-10-2016
+00000034 | Laurentina Valdir Andrade Garcez | Porto    Felgueiras    Penacova    1 135     320 | 16-03-2016
+00000035 | Nélson Emídio Novaes Gaspar | Castelo Branco    Covilhã    Ourondo    416    921 | 14-11-2016
+00000036 | Miracema Alírio Marinho Canejo | Santarem    Tomar    Serra    1 299     3 352 | 23-05-2016
+00000037 | Bárbara Rosário Grangeia Villena | Castelo Branco    Vila Velha de Ródão    Sarnadas de Ródão    693    5 983 | 27-11-2016
+00000038 | Batista Adão Caeira | Vila Real    Chaves    Nogueira da Montanha    693    1 692 | 14-07-2016
+00000039 | Angelina Rezende | Coimbra    Arganil    Vila Cova de Alva    533    1 279  | 08-11-2016
+00000040 | Ademir Marília Corte-Real | Braga    Barcelos    Silveiros    1 108     461 | 09-04-2016
+00000041 | Celso Vilela Pino | Castelo Branco    Sertã    Castelo    1 163     2 462 | 08-06-2016
+00000042 | Malvina Marcos Quesado Moreno | Santarem    Santarem    Arneiro das Milhariças    936    1 201 | 14-11-2016
+00000043 | Dalila Arcelino Ferraço Salgado | Vila Real    Valpaços    Algeriz    730    1 899 | 27-07-2016
+00000044 | Iolanda Justino Ramírez Cesário | Viseu    Tabuaço    Barcos    658    981 | 09-05-2016
+00000045 | Dinis Ponte | Madeira    Ribeira Brava    Ribeira Brava    5 941     1 750 | 02-02-2016
+00000046 | Estefânia Dione Aleixo Freiria | Lisboa    Lisboa    Sta. Justa    700    24 | 24-01-2016
+00000047 | Violante Kelly Pastana Casalinho | Viseu    Lamego    Lalim    912    764 | 12-07-2016
+00000048 | Telma Luisa Sabala | Aveiro    Aveiro    Vera Cruz    8 652     3 880  | 18-09-2016
+00000049 | Ilídio Granjeiro | Vila Real    Mesão Frio    Mesão Frio (S. Nicolau)    436    45 | 04-05-2016
+00000050 | Alexander Andreia Meirelles | Braga    Póvoa de Lanhoso (N. S. do Amparo)    Campos    1 052     448 | 20-03-2016
+00000051 | Guido Pino | Viseu    Tondela    Castelões    1 768     1 689 | 17-07-2016
+00000052 | Otoniel Garcez | Vila Real    Montalegre    Santo André    271    1 982 | 11-05-2016
+00000053 | Graciete Fiães | Madeira    Ribeira Brava    Ribeira Brava    5 941     1 750 | 15-08-2016
+00000054 | Plácido Laila Belo Ferrão | Beja    Serpa    Vale de Vargo    1 073     5 792 | 19-03-2016
+00000055 | Helga Benito Filipe Vasques | Setúbal    Almada    Charneca de Caparica    20 419     2 233 | 13-08-2016
+00000056 | Laila Jasmim Valadão Brandão | Viseu    Armamar    Armamar    1 222     788 | 21-12-2016
+00000057 | Elias Kevin Aguiar Modesto | Açores    Ponta Delgada    Capelas    3 759     1 684 | 04-04-2016
+00000058 | Iara Rosana Cipriano Baptista | Braga    Fafe    Vinhós    688    218 | 01-03-2016
+00000059 | Cibelli Eleutério Furtado | Leiria    Caldas da Rainha    Nadadouro    1 422     922 | 25-08-2016
+00000060 | Adérito Jonata Keil Ramos | Porto    Maia    Pedrouços    11 868     225 | 16-05-2016
+00000061 | Rogério Elvis Martínez | Évora    Vila Viçosa    Vila Viçosa (S. Bartolomeu)    1 078     21 | 31-01-2016
+00000062 | Humberto Franklin Pastana Muxagata | Braga    Guimarães    Ponte    6 597     785 | 13-01-2016
+00000063 | Sidney Godofredo Padilla | Braga    Guimarães    Conde    1 437     155 | 20-07-2016
+00000064 | Bianca Atílio Doutiz Sotomayor | Lisboa    Lisboa    Alcântara    14 443     439 | 18-06-2016
+00000065 | Adélia Úrsula Ouro | Bragança    Mirandela    Caravelas    269    1 259 | 29-12-2016
+00000066 | Miguel Quezado | Açores    Ribeira Grande    Sta. Bárbara    1 271     1 273 | 28-12-2016
+00000067 | Dagmar Pascoal Mesquita | Braga    Vila Verde    Valdreu    648    1 669 | 22-07-2016
+00000068 | Lourival César Azeredo Fartaria | Guarda    Aguiar da Beira    Coruche    208    857 | 09-12-2016
+00000069 | Emídio Sabina Homem Machado | Viseu    Mangualde    Santiago de Cassurrães    1 412     2 234 | 04-11-2016
+00000070 | Perceu Noemi Madeira Bulhosa | Castelo Branco    Castelo Branco    Castelo Branco    31 242     16 966 | 15-04-2016
+00000071 | Sheila Ermengarda Bentes | Bragança    Bragança    Quintela de Lampaças    285    1 975 | 19-11-2016
+00000072 | Venceslau Lencastre | Castelo Branco    Oleiros    Mosteiro    422    1 717 | 11-01-2016
+00000073 | Iolanda Felisberto Galante | Açores    Vila Franca do Campo    Vila Franca do Campo    1 624     1 844 | 29-05-2016
+00000074 | Agnete Chagas | Aveiro    Vale de Cambra    Junqueira    1 295     1 717 | 22-07-2016
+00000075 | Telmo André Castel-Branco Simas | Braga    Braga    Cunha    612    285 | 13-01-2016
+00000076 | Paulino Valentina Espírito Santo | Castelo Branco    Belmonte    Caria    2 240     4 615 | 29-12-2016
+00000077 | Marieta Donato Albuquerque Açores | Porto    Marco de Canaveses    S. Nicolau    491    85 | 23-05-2016
+00000078 | Cibelli Idalina Mendonça | Braga    Celorico de Basto    Caçarilhe    455    602 | 22-12-2016
+00000079 | Atílio Hortênsia Rocha Mondragão | Vila Real    Chaves    Paradela    318    846 | 06-04-2016
+00000080 | Naomi Agostinho Boeira | Viseu    Castro Daire    Mamouros    675    895 | 12-04-2016
+00000081 | Dânia Caetana Dias | Bragança    Alfândega da Fé    Ferradosa    242    1 432 | 30-08-2016
+00000082 | Ediberto Pablo Prada | Aveiro    Sta. Maria da Feira    Guisande    1 474     378 | 30-08-2016
+00000083 | Donato Edmundo Graça | Santarem    Alcanena    Monsanto    931    1 840 | 16-03-2016
+00000084 | Cássia Valladares | Braga    Vila Nova de Famalicão    Vale (S. Martinho)    1 943     405 | 20-05-2016
+00000085 | Paulino Ferdinanda Infante Paula | Setúbal    Alcochete    Alcochete    9 094     11 945 | 08-03-2016
+00000086 | Silvino Raimundo Carrasqueira Inácio | Viana do castelo    Melgaço    Penso    563    902 | 03-03-2016
+00000087 | Núria Idalinda Medeiros Varejão | Bragança    Mogadouro    Remondes    294    1 958 | 18-07-2016
+00000088 | Barnabé Caetano Capucho | Porto    Marco de Canaveses    Avessadas    1 242     505 | 11-12-2016
+00000089 | Sílvia Gervásio Matta | Aveiro    Ílhavo    Gafanha do Carmo    1 521     601 | 30-04-2016
+00000090 | Perceu Cambezes | Leiria    Caldas da Rainha    Nadadouro    1 422     922 | 17-01-2016
+00000091 | Rafael Vasco Pádua Faia | Setúbal    Montijo    Quinta do Anjo    8 354     5 106  | 21-03-2016
+00000092 | Luciano Clara Lagos Colares | Beja    Mértola    S. Sebastião dos Carros    300    7 176  | 17-08-2016
+00000093 | Carlos Teresa Silveira  | Guarda    Guarda    Valhelhas    509    1 895 | 27-07-2016
+00000094 | Amália Velázquez | Faro    Alcoutim    Pereiro    287    10 125 | 29-09-2016
+00000095 | Dinis Rosália Parreira | Viseu    Castro Daire    S. Joaninho    413    813 | 20-08-2016
+00000096 | Simão Ema Ferraz Muniz | Porto    Marco de Canaveses    Maureles    402    362 | 08-09-2016
+00000097 | Alan Eli Cerveira | Bragança    Vinhais    Soeira    120    1 397 | 24-09-2016
+00000098 | Melinda Avellar | Lisboa    Loures    Lousa    3 420     1 650 | 10-06-2016
+00000099 | Henriqueta Carvalhoso | Açores    Horta    Castelo Branco    1 349     2 433 | 26-10-2016
+00000100 | Hilton Mariana Girão | Porto    Porto    Cedofeita    24 784     266 | 10-06-2016
+00000101 | Laurentina Elvira Olivera Barros | Santarem    Torres Novas    Torres Novas (Sta Maria)    4 389     2 192 | 31-03-2016
+00000102 | Lúcia Urias | Faro    Silves    Silves    10 768     17 745 | 12-06-2016
+00000103 | Sónia Yara Eiró Baía | Évora    Évora    N. S. da Boa Fé    376    3 362 | 21-06-2016
+00000104 | Cícero Josefa Fortunato | Lisboa    Arruda dos Vinhos    Arranhó    2 495     2 123 | 03-12-2016
+00000105 | Dário Cristóvão Carvalheira Marreiro | Viseu    Oliveira de Frades    S. João da Serra    643    1 221 | 25-02-2016
+00000106 | Atanásio Salomão Freitas | Santarem    Abrantes    Bemposta    2 252     18 773 | 24-04-2016
+00000107 | Ladislau Adauto Garcez | Viseu    Viseu    Povolide    1 959     2 022 | 18-05-2016
+00000108 | Antero Adorinda Valentim Lobo | Guarda    Figueira de Castelo Rodrigo    Cinco Vilas    103    1 760 | 24-06-2016
+00000109 | Damião Bastos | Santarem    Ourém    Freixianda    2 792     3 016 | 07-10-2016
+00000110 | Quixote Sérgio Mascareñas Baldaia | Guarda    Fornos de Algodres    Sobral Pichorro    227    881 | 09-11-2016
+00000111 | Noemi Cecília Clementino | Porto    Santo Tirso    Monte Cordova    3 669     1 696 | 05-09-2016
+00000112 | Lúcio Jerônimo Ginjeira Águeda | Aveiro    Espinho    Guetim    1 532     176 | 13-02-2016
+00000113 | Ermínio Jacob Severiano Custódio | Vila Real    Valpaços    Santiago da Ribeira de Alhariz    835    1 809 | 10-04-2016
+00000114 | Erasmo Juca Morão | Guarda    Almeida    S. Pedro de Rio Seco    202    2 352 | 24-08-2016
+00000115 | Amável Aura Chagas | Coimbra    Tábua    Ázere    799    1 195 | 03-11-2016
+00000116 | Amado Carneiro | Braga    Amares    Carrazedo    759    309 | 22-10-2016
+00000117 | Quirina Ulisses Vilarinho Pádua | Lisboa    Cadaval    Peral    953    1 639 | 14-08-2016
+00000118 | Ondina Wilson Fartaria Tabosa | Viseu    S. João da Pesqueira    Várzea de Trevões    237    930 | 10-09-2016
+00000119 | Hélia Cerqueira | Bragança    Vimioso    Algoso    279    3 692 | 10-06-2016
+00000120 | Ivone Caetano Sabala | Viana do castelo    Arcos de Valdevez    Monte Redondo    284    235 | 31-01-2016
+00000121 | Loide Adolfo Zambujal Matta | Santarem    Alcanena    Serra de Santo António    726    1 449 | 30-06-2016
+00000122 | Mariana Guilheiro | Coimbra    Cantanhede    Pocariça    1 163     1 229 | 22-05-2016
+00000123 | Vágner Raimunda Muniz Barata | Viseu    Sernancelhe    Vila da Ponte    572    1 271  | 29-01-2016
+00000124 | Francisco Benjamim Farias Nascimento | Viseu    Viseu    Povolide    1 959     2 022 | 20-08-2016
+00000125 | Cândida Asdrúbal Cabral Gago | Castelo Branco    Penamacôr    Sobreira Formosa    2 116     8 501  | 01-05-2016
+00000126 | Romualdo Gonçalo Farinha | Guarda    Almeida    Malpartida    206    2 354 | 21-12-2016
+00000127 | Tânia Angélica Soverosa Viegas | Porto    Marco de Canaveses    Vila Boa do Bispo    3 085     1 171  | 26-12-2016
+00000128 | Custódio Dejanira Grangeia Arantes | Beja    Castro Verde    Castro Verde    4 820     28 832 | 02-10-2016
+00000129 | Anselmo Foquiço | Porto    Marco de Canaveses    Sobretâmega    1 124     407 | 26-06-2016
+00000130 | Flávia Loreta Talhão | Lisboa    Torres Vedras    Campelos    2 708     2 420 | 26-12-2016
+00000131 | Carminda Cipriano | Castelo Branco    Belmonte    Caria    2 240     4 615 | 11-03-2016
+00000132 | Helga Chousa | Porto    Maia    Barca    2 769     313 | 11-10-2016
+00000133 | Samanta Antero Frade Vilas Boas | Viana do castelo    Valença    Taião    152    868 | 21-02-2016
+00000134 | Dana Eleutério Arantes | Setúbal    Almada    Laranjeiro    21 175     366 | 25-07-2016
+00000135 | Fabíola Carreira | Lisboa    Torres Vedras    Ramalhal    3 052     3 690 | 21-04-2016
+00000136 | Simone Toledo | Porto    Vila Nova de Gaia    Avintes    11 523     938 | 15-12-2016
+00000137 | Mavilde Baião | Aveiro    Vale de Cambra    S. Pedro de Castelões    7 625     2 148 | 24-07-2016
+00000138 | Emília Mascareñas | Braga    Vila Verde    Godinhaços    462    655 | 14-07-2016
+00000139 | Acácia Gomes | Viana do castelo    Paredes de Coura    Vascões    237    697 | 29-03-2016
+00000140 | Silvestre Horta | Braga    Braga    Arentim    1 040     231 | 07-05-2016
+00000141 | Cláudio Amorim | Viana do castelo    Vila Nova de Cerveira    Cornes    481    677 | 16-09-2016
+00000142 | Muriel Hélder Gabeira | Santarem    Abrantes    Abrantes (S. João)    1 850     227 | 31-07-2016
+00000143 | Cornélio Geraldino Novais | Braga    Vila Verde    Geme    474    247 | 06-07-2016
+00000144 | Adosinda Odair Barra Ulhoa | Guarda    Fornos de Algodres    Juncais    316    887 | 29-08-2016
+00000145 | Jessé Pinheiro | Castelo Branco    Castelo Branco    Sobral do Campo    516    3 129 | 21-05-2016
+00000146 | Ermengarda Lita Casado Salguero | Castelo Branco    Penamacôr    Bemposta    184    1 000 | 22-01-2016
+00000147 | Shirley Nélia Taveiros | Viseu    Tarouca    S. João de Tarouca    735    2 246 | 13-11-2016
+00000148 | Narciso Loureiro | Vila Real    Boticas    Curros    87    1 208 | 11-03-2016
+00000149 | Marco Cordeiro | Bragança    Vila Flor    Seixo de Manhoses    501    880 | 25-05-2016
+00000150 | Dolores Pinho | Aveiro    Aveiro    Oliveirinha    4 780     1 366 | 20-02-2016
+00000151 | Anacleto Mavilde Beça Frota | Porto    Penafiel    Rio de Moinhos    2 977     756 | 24-05-2016
+00000152 | Nara Gervásio Pequeno | Castelo Branco    Fundão    Castelejo    824    2 948 | 24-03-2016
+00000153 | Armando Neusa Serpa Carvalhoso | Faro    Silves    Pêra    1 951     2 026 | 04-06-2016
+00000154 | David Jessica Milheiro Pereira | Coimbra    Montemor-o-Velho    Tentúgal    2 275     3 448 | 20-05-2016
+00000155 | Evelina Loio | Vila Real    Valpaços    Padrela e Tazem    469    2 864 | 23-05-2016
+00000156 | Jade Geralda Velázquez Furquim | Viseu    Sta. Comba Dão    Vimieiro    848    523 | 31-07-2016
+00000157 | Sónia Reino | Castelo Branco    Penamacôr    Penamacor    1 735     37 333 | 27-07-2016
+00000158 | Viviana Osvaldo Barateiro Uchoa | Guarda    Fornos de Algodres    Matança    312    1 377 | 23-12-2016
+00000159 | Erasmo Tiago Marins | Bragança    Mogadouro    Bruçó    265    3 154 | 17-08-2016
+00000160 | Cícero Trigueiro | Viseu    S. Pedro do Sul    Baiões    300    244 | 22-02-2016
+00000161 | Glória Mieiro | Viseu    Lamego    Samodães    280    307 | 02-10-2016
+00000162 | Judith Mota | Castelo Branco    Sertã    Troviscal    1 134     5 406 | 20-02-2016
+00000163 | Apolinário Regueira | Santarem    Rio Maior    Malaqueijo    464    584 | 13-10-2016
+00000164 | Anabela Apolónia Méndez Prudente | Castelo Branco    Covilhã    Sarzedo    175    1 110 | 08-08-2016
+00000165 | Joana Hirondina Miguel | Vila Real    Valpaços    Possacos    573    1 167 | 24-06-2016
+00000166 | Núbia Estela Infante Santana | Viana do castelo    Ponte de Lima    Feitosa    828    307 | 22-06-2016
+00000167 | Renato Figueiró | Viana do castelo    Valença    Taião    152    868 | 06-03-2016
+00000168 | Patrícia Dorneles | Beja    Beja    Beja (S. João Baptista)    6 269     788 | 22-09-2016
+00000169 | Wilma Gois | Bragança    Mirandela    Suçães    770    3 594 | 13-08-2016
+00000170 | Déia Pais | Castelo Branco    Oleiros    Isna    304    2 758 | 08-05-2016
+00000171 | Eutímio Osvaldo Queiroga Lancastre | Viana do castelo    Caminha    Moledo    1 275     765 | 10-02-2016
+00000172 | Maurícia Otoniel Valladares | Lisboa    Alenquer    Alenquer (Triana)    3 532     3 228 | 30-10-2016
+00000173 | Jacob Tiago Hernandes | Lisboa    Arruda dos Vinhos    Santiago dos Velhos    1 274     1 625 | 06-03-2016
+00000174 | Moacir Elvira Ferro Lopes | Vila Real    Vila Real    Pena    540    1 398 | 18-06-2016
+00000175 | Cassandra Sérgio Póvoas Carvalhosa | Leiria    Pombal    Redinha    2 363     4 208 | 19-05-2016
+00000176 | Aguinaldo Ramos | Braga    Vila Nova de Famalicão    Ribeirão    8 298     1 091 | 10-05-2016
+00000177 | Simão Jasmim Monte Bonilha | Braga    Póvoa de Lanhoso (N. S. do Amparo)    Póvoa de Lanhoso (N. S. do Amparo)    4 602     562 | 28-04-2016
+00000178 | Erico Samara Valido Aveiro | Porto    Vila do Conde    Parada    365    334 | 10-03-2016
+00000179 | Alberta Mauro Gomide Sousa do Prado | Viseu    Sátão    S. Miguel de Vila Boa    1 479     1 449 | 12-11-2016
+00000180 | Ricardo Marcos Brandão | Viseu    Castro Daire    Moura Morta    150    999 | 13-09-2016
+00000181 | Ademir Ricardina Ferro | Viseu    Tarouca    Vila Chã da Beira    234    619 | 28-12-2016
+00000182 | Alva Henriques | Porto    Amarante    Canadelo    217    1 295 | 22-06-2016
+00000183 | Talita Ediberto Campelo | Vila Real    Valpaços    Tinhela    253    1 519 | 06-03-2016
+00000184 | David Marco Peçanha Mieiro | Viana do castelo    Caminha    Arga de S. João    72    1 304 | 27-08-2016
+00000185 | Emanuel Aragão | Braga    Póvoa de Lanhoso (N. S. do Amparo)    Lanhoso    690    647 | 06-12-2016
+00000186 | Valdir Rubina Bensaúde | Vila Real    Montalegre    Fiães do Rio    104    693 | 10-04-2016
+00000187 | Carmo Núria Vilalobos Sá | Castelo Branco    Belmonte    Belmonte    3 227     2 732 | 06-10-2016
+00000188 | Nivaldo Gabriela Minho | Porto    Vila do Conde    Bagunte    1 662     989 | 27-02-2016
+00000189 | Martina Betânia Macedo Bento | Porto    Paços de Ferreira    Arreigada    2 117     216 | 15-01-2016
+00000190 | Urbano Baldaia | Faro    Vila do Bispo    Barão de S. Miguel    440    1 486 | 20-10-2016
+00000191 | Alcione Menna | Bragança    Freixo de Espada à Cinta    Lagoaça    497    4 100 | 20-01-2016
+00000192 | Claudino Nestor Landim | Évora    Mora    Brotas    543    8 315 | 07-03-2016
+00000193 | Regina Isaura Ramallo | Viana do castelo    Ponte da Barca    Entre Ambos-os-Rios    542    1 478 | 23-03-2016
+00000194 | Cássia Yara Torcuato Pinho | Lisboa    Sintra    Casal de Cambra    9 864     240 | 21-02-2016
+00000195 | Maurício Alana Lobo | Bragança    Carrazeda de Ansiães    Zedes    214    1 007  | 02-06-2016
+00000196 | Fabiano Marisela Amorim Lucas | Viseu    Tarouca    Tarouca    3 416     1 968 | 30-12-2016
+00000197 | Elvis Leitão | Coimbra    Soure    Tapéus    447    1 441 | 19-04-2016
+00000198 | Argeu Pedro Vilarinho | Viana do castelo    Vila Nova de Cerveira    Gondarém    991    713 | 12-12-2016
+00000199 | Celso Caetano Moura | Viana do castelo    Valença    Friestas    546    432 | 16-02-2016
+00000200 | Caio Sesimbra | Bragança    Carrazeda de Ansiães    Belver    361    860 | 05-02-2016
+00000201 | Evangelina Parracho | Santarem    Torres Novas    Brogueira    1 065     2 107 | 04-07-2016
+00000202 | Adauto Valverde | Porto    Porto    Cedofeita    24 784     266 | 18-04-2016
+00000203 | Clara Yuri Covilhã | Braga    Guimarães    Vermil    1 352     206 | 27-06-2016
+00000204 | Gervásio Balsemão | Porto    Maia    Avioso (Sta. Maria)    3 360     464 | 01-07-2016
+00000205 | Alana Britto | Porto    Amarante    Gatão    1 564     542 | 02-10-2016
+00000206 | Eduarda Nicolas Cartaxo | Guarda    Guarda    Ramela    239    1 069 | 05-12-2016
+00000207 | Disa Salazar | Açores    Povoação    Furnas    1 541     3 388 | 07-12-2016
+00000208 | Rui Caparica | Bragança    Vinhais    Rebordelo    665    2 215 | 29-04-2016
+00000209 | Elvis Clóvis Goes Andrade | Viana do castelo    Valença    Valença    3 483     251 | 05-09-2016
+00000210 | Elisabete Malheiros | Beja    Almodôvar    Rosário    606    6 070 | 25-05-2016
+00000211 | Sara Acácia Cavalheiro | Braga    Vila Verde    Valões    183    400 | 16-09-2016
+00000212 | Nisa Aldara Lancastre Filgueiras | Vila Real    Vila Real    Mouçós    2 906     2 274 | 30-09-2016
+00000213 | Constantino Murtinho | Porto    Porto    Santo Ildefonso    10 044     128 | 15-01-2016
+00000214 | Palmira Branco | Viseu    Sernancelhe    Arcos    206    790 | 10-12-2016
+00000215 | Edelina Secadura | Viseu    S. Pedro do Sul    S. Pedro do Sul    4 011     1 232 | 19-05-2016
+00000216 | Sabino Caldeira | Braga    Braga    Este (S. Mamede)    1 709     578 | 23-09-2016
+00000217 | Bonifácio Diogo Caeiro Ilha | Porto    Amarante    Travanca    2 502     825 | 18-02-2016
+00000218 | Lara Amador Coelho | Lisboa    Cadaval    Peral    953    1 639 | 13-01-2016
+00000219 | Teófilo Aníbal Martínez | Porto    Amarante    Gondar    1 693     963 | 24-05-2016
+00000220 | Célia Jessica Ramos Figueiredo | Braga    Barcelos    Galegos (Sta. Maria)    3 081     319 | 23-03-2016
+00000221 | Amaro Murtinho | Braga    Barcelos    Alvelos    2 168     422 | 07-03-2016
+00000222 | Hildegarda Clementina Piteira Bandeira | Castelo Branco    Oleiros    Álvaro    315    3 363 | 28-11-2016
+00000223 | Elizabeth Nogueira | Braga    Braga    Mire de Tibães    2 389     507 | 13-05-2016
+00000224 | Elizeu Ademar Antas | Faro    Castro Marim    Alcoutim    1 099     12 960 | 14-09-2016
+00000225 | Alícia Índia Ávila Bugalho | Braga    Guimarães    Corvite    (*)     (*) | 07-12-2016
+00000226 | Golias Resende | Lisboa    Loures    Camarate    18 822     517 | 16-08-2016
+00000227 | Débora Firmina Toledo Faro | Coimbra    Soure    Samuel    1 398     3 165 | 26-10-2016
+00000228 | Pamela Paredes | Évora    Estremoz    Sta. Vitória do Ameixial    491    5 542 | 17-02-2016
+00000229 | Leonel Nélida Gorjão Teles | Beja    Castro Verde    Sta. Bárbara de Padrões    1 271     6 633 | 15-11-2016
+00000230 | Lurdes Lisandro Matta Paranhos | Guarda    Almeida    Amoreira    185    1 330 | 07-05-2016
+00000231 | Francisco Sílvio Baldaia Clementino | Viana do castelo    Monção    Podame    321    366 | 02-08-2016
+00000232 | Valdo Cachoeira | Castelo Branco    Belmonte    Belmonte    3 227     2 732 | 03-11-2016
+00000233 | Nilda Paredes | Braga    Barcelos    Rio Covo (Sta. Eulália)    1 033     331 | 25-10-2016
+00000234 | Rita Brígida Raposo | Setúbal    Barreiro    Lavradio    13 051     217 | 12-12-2016
+00000235 | Omar Leónidas Bonilha Janes | Viana do castelo    Melgaço    Castro Laboreiro    726    8 929 | 23-01-2016
+00000236 | Dores Aguiar | Lisboa    Lisboa    Santos-o-Velho    4 013     51 | 05-12-2016
+00000237 | Abigail Hipólito | Viseu    Tarouca    Salzedas    861    892 | 16-10-2016
+00000238 | Bráulio Setúbal | Açores    Ribeira Grande    Porto Formoso    1 267     1 146 | 25-02-2016
+00000239 | Nídia Filgueiras | Açores    Ribeira Grande    Porto Formoso    1 267     1 146 | 08-01-2016
+00000240 | Walter Luz | Açores    Angra do Heroísmo    Angra (S. Pedro)    3 638     385 | 11-01-2016
+00000241 | Dione Hermínia Sousa de Arronches | Setúbal    Almada    Pragal    7 721     221 | 18-06-2016
+00000242 | Donato Silvana Castro Aires | Vila Real    Boticas    S. Salvador de Viveiro    345    1 883 | 03-10-2016
+00000243 | Amândio Barcelos | Porto    Matosinhos    Guifões    9 686     353 | 29-09-2016
+00000244 | Adosindo Quintanilla | Porto    Felgueiras    Pombeiro de Ribavizela    2 142     461 | 31-08-2016
+00000245 | Osmar Rute Marroquim | Guarda    Vila Nova de Foz Côa    Murça    135    819 | 28-06-2016
+00000246 | Isilda Dácio Vergueiro Filgueiras | Santarem    Abrantes    Carvalhal    1 006     1 745 | 13-09-2016
+00000247 | Olegário Malta | Vila Real    Vila Pouca de Aguiar    Sabroso de Aguiar    708    1 207 | 30-07-2016
+00000248 | Libânia Paulino Viveiros Cirne | Porto    Maia    Gueifães    11 532     298 | 21-07-2016
+00000249 | Apolónia Dina Salomão | Braga    Vieira do Minho Cantelães    933    1 118 | 09-08-2016
+00000250 | Misael Cremilde Menezes Belém | Santarem    Ferreira do Zêzere    Igreja Nova do Sobral    704    1 307 | 06-01-2016
+00000251 | Alfredo Domingos Albuquerque Lemos | Braga    Barcelos    Fonte Coberta    609    256 | 27-03-2016
+00000252 | Dulcineia Regalado | Leiria    Caldas da Rainha    Vidais    1 178     2 221  | 25-06-2016
+00000253 | Hebe Bianca Picão | Viana do castelo    Melgaço    Paderne    1 235     1 356 | 23-04-2016
+00000254 | Amanda Aurora Martins Monforte | Braga    Guimarães    Souto (Sta. Maria)    831    407 | 09-11-2016
+00000255 | Serena Cláudio Valim Belchior | Açores    Lagoa (Açores)    Ribeira Chã    366    252 | 10-06-2016
+00000256 | Victor Josafá Portugal | Braga    Vila Verde    Barros    392    269 | 11-09-2016
+00000257 | Igor Filomena Botelho | Vila Real    Chaves    Vidago    1 186     640 | 29-05-2016
+00000258 | Amilcar Djalma Hilário | Viseu    Vouzela    Ventosa    921    1 821 | 07-04-2016
+00000259 | Renan Gervásio Bernardes Trindade | Aveiro    Águeda    Macinhata do Vouga    3 581     3 298 | 27-09-2016
+00000260 | Lourival Peçanha | Aveiro    Sta. Maria da Feira    Vila Maior    1 438     271 | 26-11-2016
+00000261 | Getúlio Aponino Barros Narvais | Guarda    Celorico da Beira    Linhares    328    1 547 | 12-11-2016
+00000262 | Valdemiro Vilhena | Bragança    Mirandela    Valverde    198    1 759 | 17-04-2016
+00000263 | Joaquina Sabina Motta | Viseu    Vila Nova de Paiva    Vila Cova à Coelheira    1 317     3 217 | 23-07-2016
+00000264 | Kelvin Castanho | Bragança    Vila Flor    Vila Flor    2 531     3 220 | 25-04-2016
+00000265 | Faustina Quinzeiro | Porto    Póvoa de Varzim    Balazar    2 475     1 157 | 28-08-2016
+00000266 | Blenda Lousã | Açores    Lajes das Flores    Lajedo    107    673 | 05-08-2016
+00000267 | Magda Lages | Setúbal    Santiago do Cacém    Santo André    10 696     7 432 | 01-11-2016
+00000268 | Greta Celeste Álvaro Fagundes | Viana do castelo    Ponte de Lima    Beiral do Lima    767    558 | 05-05-2016
+00000269 | Laurentina Capistrano | Braga    Fafe    Arões ( S. Romão)    3 258     637 | 01-08-2016
+00000270 | Romeu Quesado | Setúbal    Alcácer do Sal    Comporta    1 348     11 212 | 23-09-2016
+00000271 | Cláudia Regueira | Braga    Guimarães    Ronfe    4 487     499 | 31-10-2016
+00000272 | Odete Vanderlei Godinho Gravato | Braga    Vila Nova de Famalicão    Seide (S. Paio)    381    134 | 24-11-2016
+00000273 | Eleutério Elisabete Galante | Vila Real    Valpaços    Alvarelhos    172    1 283 | 07-04-2016
+00000274 | Lourdes Disa Mesquita Andrade | Setúbal    Grândola    Carvalhal    1 600     5 600 | 13-09-2016
+00000275 | Custódia Castilhos | Viana do castelo    Monção    Podame    321    366 | 05-12-2016
+00000276 | Orlando Francisca Poças Tabosa | Viseu    Resende    Feirão    131    470 | 08-05-2016
+00000277 | Elza Alexandrina Mourão | Guarda    Figueira de Castelo Rodrigo    Algodres    352    3 216 | 07-10-2016
+00000278 | Estela Ismael Morais | Vila Real    Chaves    Seara Velha    187    970 | 27-06-2016
+00000279 | Ricardo Adelinda Ventura | Viseu    Penedono    Beselga    354    1 519 | 27-06-2016
+00000280 | César Agnes Vidal | Guarda    Sabugal    Quadrazais    473    3 957 | 21-08-2016
+00000281 | Hirondina Rodolfo Rodovalho | Porto    Santo Tirso    Campo (S. Martinho)    3 736     344 | 20-07-2016
+00000282 | Isolda Adonirã Carrasco | Santarem    Torres Novas    Alcorochel    880    854 | 08-08-2016
+00000283 | Violante Sabrosa | Braga    Barcelos    Martim    2 411     484 | 23-02-2016
+00000284 | Gerson Fonseca | Viseu    Nelas    Santar    1 156     1 247 | 07-02-2016
+00000285 | Juvelina Clotilde Cipriano | Braga    Amares    Bouro (Sta. Maria)    909    680 | 25-09-2016
+00000286 | Dúlio Lara Fernandes Ríos | Vila Real    Mondim de Basto    Mondim de Basto    3 473     2 339 | 09-12-2016
+00000287 | Anastácio Quintão | Braga    Póvoa de Lanhoso (N. S. do Amparo)    Geraz do Minho    548    433 | 02-02-2016
+00000288 | Rudolfo Cesário | Guarda    Mêda    Barreira    246    2 546 | 20-12-2016
+00000289 | Fabiano Lameira | Porto    Paredes    Besteiros    1 412     270 | 01-11-2016
+00000290 | Hernâni Peçanha | Castelo Branco    Fundão    Enxames    596    2 245 | 09-06-2016
+00000291 | Cloe Antero Faia Severiano | Santarem    Rio Maior    Outeiro da Cortiçada    829    1 453 | 20-02-2016
+00000292 | Afonso Pinho | Faro    Alcoutim    Giões    307    6 595 | 18-08-2016
+00000293 | Atílio Quintas | Évora    Mourão    Mourão    2 111     13 518  | 01-07-2016
+00000294 | Cesária Jacinta Dutra Paz | Bragança    Bragança    S. Julião de Palácios    283    3 404 | 23-04-2016
+00000295 | Violante Delgado | Coimbra    Góis    Vila Nova do Ceira    997    2 093  | 05-10-2016
+00000296 | Jussara Gaspar | Guarda    Figueira de Castelo Rodrigo    Cinco Vilas    103    1 760 | 05-02-2016
+00000297 | Linda Rafaela Soto Antas | Viseu    Castro Daire    Ribolhos    306    232 | 06-11-2016
+00000298 | Norma Valentino Marins Vilariça | Porto    Amarante    Gouveia (S. Simão)    740    1 279 | 20-11-2016
+00000299 | Dorotéia José Quinterno | Braga    Esposende    Gemeses    1 115     551 | 24-04-2016
+00000300 | Clemente Rodríguez | Aveiro    Águeda    Lamas do Vouga    760    376 | 14-04-2016
+00000301 | Nicolau Hélder Azevedo | Santarem    Ourém    Formigais    444    1 153 | 05-07-2016
+00000302 | Jasmim Jacy Letras | Lisboa    Cascais    Estoril    23 769     879 | 30-04-2016
+00000303 | Duílha Amável Pardo | Vila Real    Sta. Marta de Penaguião    Lobrigos (S. João Baptista)    1 449     657 | 29-01-2016
+00000304 | Vital Jacob Júdice Aleixo | Viana do castelo    Monção    Valadares    218    186 | 09-01-2016
+00000305 | Olímpia Laura Nobre Perdigão | Leiria    Caldas da Rainha    Caldas da Rainha (Santo Onofre)    10 775     911 | 31-05-2016
+00000306 | Rosário Cristela Hilário Freire | Viana do castelo    Ponte da Barca    Vade (S. Pedro)    288    270 | 15-09-2016
+00000307 | Wagner Josafá Belo Santana | Braga    Guimarães    Souto (S. Salvador)    928    411 | 01-01-2016
+00000308 | Élia Quintana | Braga    Vieira do Minho Soengas    161    222 | 06-12-2016
+00000309 | Linda Noélia Lins | Guarda    Celorico da Beira    Celorico (S. Pedro)    1 387     1 380 | 02-12-2016
+00000310 | Emílio Benedita Álvares | Évora    Alandroal    Terena (S. Pedro)    859    8 295  | 10-04-2016
+00000311 | Sidónio Feitosa | Aveiro    Águeda    Aguada de Baixo    1 699     388 | 12-02-2016
+00000312 | Emílio Herculano Vasconcelos Regueira | Braga    Barcelos    Vila Frescaínha (S. Martinho)    2 219     386 | 21-07-2016
+00000313 | Anselmo Wilian Bento | Viana do castelo    Arcos de Valdevez    Souto    643    402 | 07-12-2016
+00000314 | Isis Antónia Mesquita | Lisboa    Lisboa    Alvalade    9 620     58 | 17-11-2016
+00000315 | Felismina Parente | Vila Real    Montalegre    Cervos    328    3 307 | 19-01-2016
+00000316 | Naum Adelmiro Carvalheiro Olivares | Aveiro    Sever do Vouga    Silva Escura    1 738     1 424 | 26-05-2016
+00000317 | Iara Ubiratã Rico Dias | Viseu    Penedono    Antas    239    1 621 | 09-12-2016
+00000318 | Teófilo Joel Bentes Angelim | Aveiro    Sever do Vouga    Pessegueiro do Vouga    1 906     1 601 | 09-11-2016
+00000319 | Bráulio Agnes Castello Freixo | Viseu    Castro Daire    Castro Daire    4 578     3 243 | 11-03-2016
+00000320 | Lídia Nicolas Abreu | Santarem    Cartaxo        Cartaxo        10 115     1 903 | 18-10-2016
+00000321 | Lurdes Aldina Granja Lage | Vila Real    Chaves    Vilar de Nantes    2 117     719 | 21-03-2016
+00000322 | Emanuel Francisco Cerveira Afonso | Viseu    Penalva do Castelo    Castelo de Penalva    1 070     2 735 | 13-11-2016
+00000323 | Anselmo Onofre | Braga    Barcelos    Pedra Furada    466    210 | 25-04-2016
+00000324 | Urraca Castanheira | Lisboa    Azambuja    Azambuja    6 914     8 345 | 31-08-2016
+00000325 | Neide Cesária Madruga | Aveiro    Sta. Maria da Feira    Espargo    1 309     570 | 11-09-2016
+00000326 | Jaime Guilheiro | Porto    Lousada    Caíde de Rei    2 636     666 | 24-06-2016
+00000327 | Luciana Erico Bulhão Aleixo | Viseu    Lamego    Ferreirim    976    551 | 13-10-2016
+00000328 | Nuno Vianna | Braga    Vizela    S. Miguel das Caldas    6 280     520 | 27-08-2016
+00000329 | Wilker Lourenço Sousa do Prado | Porto    Santo Tirso    Água Longa    2 134     1 490 | 21-01-2016
+00000330 | Natércia Agostinho Grande Varella | Viseu    Sernancelhe    Carregal    510    1 973 | 30-06-2016
+00000331 | Miracema Caminha | Vila Real    Valpaços    Friões    786    2 769 | 17-08-2016
+00000332 | Jessica Lopes | Lisboa    Amadora    Brandoa    15 647     239 | 03-04-2016
+00000333 | Kelly Vilarinho | Viana do castelo    Viana do Castelo    Deão    971    236 | 12-03-2016
+00000334 | Léia Saúl Corte-Real Rodrigues | Viseu    Tarouca    S. João de Tarouca    735    2 246 | 03-05-2016
+00000335 | Douglas Gois | Braga    Esposende    Belinho    2 146     737 | 12-02-2016
+00000336 | Francisco Florêncio Fraga Morão | Porto    Santo Tirso    Lamelas    953    467 | 13-10-2016
+00000337 | Olívia Dulce Dantas Coitinho | Porto    Felgueiras    Lordelo    356    150 | 12-02-2016
+00000338 | Ciro Ataliba Baldaia | Vila Real    Chaves    Vidago    1 186     640 | 05-12-2016
+00000339 | Loreta Grangeia | Viana do castelo    Valença    S. Julião    410    549 | 18-08-2016
+00000340 | Eduarda Silvino Quaresma | Viana do castelo    Ponte de Lima    Rebordões (Sta. Maria)    1 065     720 | 30-05-2016
+00000341 | Egídio Hugo Guerra Mourinho | Bragança    Bragança    Nogueira    431    1 365 | 16-10-2016
+00000342 | Nélia Urbino Bezerril Sardinha | Lisboa    Lisboa    Lumiar    35 585     628 | 04-12-2016
+00000343 | Lis Terra | Porto    Gondomar    Ordem    1 294     273 | 01-12-2016
+00000344 | Romeu Linares | Évora    Mora    Mora    2 819     12 759 | 28-07-2016
+00000345 | Augusto Deolinda Vilalobos Meireles | Coimbra    Arganil    Pomares    587    3 168 | 28-08-2016
+00000346 | Juca Augusta Bezerril Paz | Leiria    Alvaiázere    Pussos    1 327     2 499 | 10-04-2016
+00000347 | Cleide Melissa Barreto Leitão | Bragança    Vila Flor    Assares    170    282 | 02-02-2016
+00000348 | Dinorah Natália Cerqueira Peixoto | Lisboa    Sintra    Sintra (S. Pedro de Penaferrim)    9 459     2 646 | 27-06-2016
+00000349 | Laila Quintela | Castelo Branco    Covilhã    Verdelhos    875    3 146  | 24-09-2016
+00000350 | Hernâni Leopoldo Paranhos Hernandes | Braga    Cabeceiras de Basto    Cabeceiras de Basto    868    2 452 | 13-05-2016
+00000351 | Aline Gilberto Paredes Neto | Viseu    Tabuaço    Arcos    206    790 | 16-11-2016
+00000352 | Larissa Cícero Leão | Setúbal    Moita    Vale da Amoreira    12 358     252 | 01-08-2016
+00000353 | Edgar Eanes | Beja    Castro Verde    Castro Verde    4 820     28 832 | 11-07-2016
+00000354 | Marlene Ricardino Abasto | Viseu    Armamar    Folgosa    503    477 | 22-04-2016
+00000355 | Helga Dinarte Bairros Valcanaia | Porto    Penafiel    Eja    1 198     466 | 05-02-2016
+00000356 | Maísa Bonifácio Diniz | Braga    Fafe    Serafão    1 195     697 | 29-01-2016
+00000357 | Afonso Mavilde Camilo | Braga    Barcelos    Faria    583    301 | 30-03-2016
+00000358 | Cristóvão Golias Correia | Viana do castelo    Ponte de Lima    Labruja    482    1 673 | 11-02-2016
+00000359 | Celeste Gonçalves | Viseu    Penalva do Castelo    Sezures    854    2 274 | 30-03-2016
+00000360 | Pedro Cardoso | Açores    Vila Franca do Campo    Vila Franca do Campo (S. Miguel)    4 047     1 947 | 29-12-2016
+00000361 | Morgana Rabello | Aveiro    Vagos    Ouca    1 874     1 629 | 12-12-2016
+00000362 | Ricardino Ernane Pamplona | Lisboa    Arruda dos Vinhos    Arruda dos Vinhos    5 835     3 424 | 10-10-2016
+00000363 | Alba Marmou | Viana do castelo    Caminha    Dem    462    649 | 20-09-2016
+00000364 | Arménio Constantino Bencatel Moutinho | Castelo Branco    Idanha-a-Nova    Medelim    342    3 047 | 20-05-2016
+00000365 | Alice Vitória Fitas | Beja    Beja    Quintos    310    13 970 | 31-08-2016
+00000366 | Maximiliano Cornélio Leiria Pederneiras | Braga    Vila Verde    Nevogilde    319    190 | 15-07-2016
+00000367 | Renan Castel-Branco | Lisboa    Loures    Camarate    18 822     517 | 16-02-2016
+00000368 | Junia Rita Sesimbra | Braga    Braga    Braga (Cividade)    1 884     28 | 10-07-2016
+00000369 | Urraca Wilma Letras | Guarda    Guarda    Vila Garcia    334    1 708 | 21-08-2016
+00000370 | Lúcia Nélia Lopes | Braga    Barcelos    Creixomil    858    417 | 10-11-2016
+00000371 | Hélia Neide Palha Amaro | Castelo Branco    Castelo Branco    Alcains    4 928     3 709 | 26-07-2016
+00000372 | Graciete Bonifácio Caetano Pessanha | Castelo Branco    Fundão    Alcaria    1 271     2 151 | 02-05-2016
+00000373 | Libânio Madeira | Viseu    Armamar    Santiago    180    376 | 26-02-2016
+00000374 | Lucília Pedro Mena Mourão | Braga    Barcelos    Bastuço (S. João)    694    181 | 08-11-2016
+00000375 | Adolfo Belarmina Ilha Inês | Madeira    Câmara de Lobos    Jardim da Serra    3 707     710 | 19-12-2016
+00000376 | Olivier Magalhães | Aveiro    Arouca    Várzea    559    174 | 09-05-2016
+00000377 | Fabíola Cinira Igrejas Jácome | Braga    Barcelos    Chavão    733    200 | 15-09-2016
+00000378 | Élio Lucas Mortágua | Aveiro    Águeda    Belazaima do Chão    588    2 009 | 21-03-2016
+00000379 | Virgílio Lena Guterres | Guarda    Figueira de Castelo Rodrigo    Cinco Vilas    103    1 760 | 13-10-2016
+00000380 | Leandro Quitéria Lóio | Braga    Guimarães    Ronfe    4 487     499 | 03-12-2016
+00000381 | Abel Dâmaso | Madeira    Ponta do Sol    Ponta do Sol    4 224     2 820  | 27-05-2016
+00000382 | Priscilo Curvelo | Aveiro    Arouca    Várzea    559    174 | 02-12-2016
+00000383 | Virgínia Novais | Lisboa    Oeiras    Paço de Arcos    23 496     663 | 03-09-2016
+00000384 | Dana Clementino Dias | Viana do castelo    Monção    Mazedo    1 428     735 | 09-07-2016
+00000385 | Carminda Caetana Felgueiras | Viseu    S. João da Pesqueira    Castanheiro do Sul    474    2 138 | 05-11-2016
+00000386 | Flaviano Adosindo Curvelo | Açores    Praia da Vitória    Vila Nova    1 729     796 | 27-02-2016
+00000387 | Pablo Perceu Quesado | Viseu    Oliveira de Frades    Sejães    249    551 | 15-12-2016
+00000388 | Alexandre Carreira | Setúbal    Moita    Moita    16 727     1 948 | 19-04-2016
+00000389 | Vanderlei Jerônimo Caniça Meira | Bragança    Mogadouro    Valverde    196    2 397 | 13-12-2016
+00000390 | Luzia Berenice Sintra Villar | Bragança    Alfândega da Fé    Sambade    605    3 219 | 21-05-2016
+00000391 | Bianca Marina Campelo | Vila Real    Mondim de Basto    Vilar de Ferreiros    1 373     1 615  | 11-12-2016
+00000392 | Clélia Malta | Aveiro    Ovar    Cortegaça    4 066     1 012 | 28-04-2016
+00000393 | Aguinaldo Junia Letras | Santarem    Torres Novas    Torres Novas (Salvador)    2 201     1 185 | 12-05-2016
+00000394 | Romeu Raul Tigre | Leiria    Alvaiázere    Rego da Murta    948    1 663 | 26-05-2016
+00000395 | Armando Getúlio Gameiro | Beja    Almodôvar    Aldeia dos Fernandes    619    2 048 | 25-06-2016
+00000396 | Laura Sofia Bezerra | Porto    Felgueiras    Margaride (Sta. Eulália)    9 451     617 | 01-02-2016
+00000397 | Marlene Abranches | Lisboa    Mafra    Vila Franca do Rosário    888    617 | 06-07-2016
+00000398 | Cesário Emanuel Toscano Couto | Bragança    Bragança    Baçal    470    2 476 | 28-09-2016
+00000399 | Maísa Rodolfo Azeredo | Guarda    Trancoso    Vale do Seixo    171    724 | 09-04-2016
+00000400 | Jocosa Custódia Carvalho | Beja    Castro Verde    Entradas    774    7 592 | 12-03-2016
+00000401 | Ari Vidigal Matta Durão | Beja    Cuba    Vila Ruiva    625    2 020  | 11-06-2016
+00000402 | Hirondina Caniça | Viseu    Vouzela    Fornelo do Monte    330    1 524 | 29-12-2016
+00000403 | Manuela Constantino Sales | Vila Real    Boticas    Codessoso    168    845 | 26-10-2016
+00000404 | Viriato Dora Varejão | Leiria    Castanheira de Pera    Castanheira de Pera    3 579     5 005 | 11-06-2016
+00000405 | Nestor Raul Jardim | Lisboa    Odivelas    Olival de Basto    6 246     139 | 19-11-2016
+00000406 | Tibúrcio Nero Zambujal | Porto    Marco de Canaveses    Avessadas    1 242     505 | 05-09-2016
+00000407 | Quitéria Nélida Monsanto Grilo | Beja    Castro Verde    Casével    365    3 334 | 03-02-2016
+00000408 | Joyce Valesca Medina | Açores    Angra do Heroísmo    Doze Ribeiras    559    1 037 | 25-07-2016
+00000409 | Teresa Paloma Carvalhosa Patrício | Faro    Silves    Silves    10 768     17 745 | 21-04-2016
+00000410 | Palmira Ado Barrocas Pestana  | Viseu    Carregal do Sal    Papízios    758    1 409 | 22-10-2016
+00000411 | Hortênsia Brites | Madeira    Santana    Arco de S. Jorge    509    350 | 10-03-2016
+00000412 | Bartolomeu Portugal | Porto    Amarante    Bustelo    577    665 | 20-05-2016
+00000413 | Adelaide Nancy Aveiro Gago | Santarem    Salvaterra de Magos    Marinhais    5 469     3 874 | 15-11-2016
+00000414 | Quixote Marieta Espartero Lopes | Porto    Penafiel    Galegos    2 532     352 | 11-05-2016
+00000415 | Raimundo Roberto Barata Dutra | Porto    Amarante    Salvador do Monte    1 154     747 | 27-08-2016
+00000416 | Dirce Vera Lustosa Inês | Viseu    Lamego    Meijinhos    104    274 | 27-03-2016
+00000417 | Élio Amélia Sintra | Leiria    Caldas da Rainha    Nadadouro    1 422     922 | 23-07-2016
+00000418 | Leopoldina Mortágua | Braga    Barcelos    Grimancelos    861    325 | 29-02-2016
+00000419 | Donaldo Capucho | Madeira    S. Vicente    Ponta Delgada    1 325     880 | 17-03-2016
+00000420 | Franklin Normando Luz | Porto    Baião    Sta. Cruz do Douro    1 803     1 014 | 15-10-2016
+00000421 | Jesabel Cremilda Leme Paula | Setúbal    Setúbal    Setúbal (S. Julião)    17 070     408 | 18-10-2016
+00000422 | Ernesto Chousa | Guarda    Guarda    Albardo    181    382 | 09-01-2016
+00000423 | Jó Carvalhal | Aveiro    Sta. Maria da Feira    Louredo    1 459     867 | 14-01-2016
+00000424 | Conceição Pinheiro | Bragança    Vinhais    Vale das Fontes    430    1 665 | 14-09-2016
+00000425 | Caetano Freiria | Bragança    Miranda do Douro    Palaçoulo    678    5 014 | 15-06-2016
+00000426 | Romualdo Énio Beiriz | Leiria    Batalha    Golpilheira    1 609     430 | 18-01-2016
+00000427 | Juliano Wilian Barreto Freire | Porto    Maia    Gondim    1 929     138 | 01-12-2016
+00000428 | Plácida Cícero Dinis | Vila Real    Ribeira de Pena    Limões    393    1 718 | 12-09-2016
+00000429 | Isolina Damião Doutis Mansilha | Braga    Vieira do Minho Guilhofrei    1 154     1 140 | 14-01-2016
+00000430 | Martina Olegário Gil | Viseu    Viseu    Ribafeita    1 461     1 859 | 18-06-2016
+00000431 | Wilson Marta Jesus Neres | Madeira    Ponta do Sol    Madalena do Mar    687    230 | 30-10-2016
+00000432 | Belarmino Lino Cerqueira | Porto    Penafiel    Novelas    1 691     303 | 06-01-2016
+00000433 | Lancelote Adão Garrau | Braga    Braga    Priscos    1 301     372 | 10-05-2016
+00000434 | Januário Olinda Nazário | Açores    Lajes das Flores    Fajã Grande    225    1 255 | 23-06-2016
+00000435 | Isolina Laila Jardim Rivero | Lisboa    Alenquer    Ribafria    974    910 | 11-10-2016
+00000436 | Cassilda Cotrim | Braga    Guimarães    Leitões    588    331 | 29-04-2016
+00000437 | Camilo Muriel Laureano Carvalhais | Braga    Barcelos    Adães    739    251 | 12-02-2016
+00000438 | Tibúrcio Cleusa Temes | Viseu    Nelas    Santar    1 156     1 247 | 14-11-2016
+00000439 | Leónidas Peçanha | Aveiro    Sta. Maria da Feira    S. Paio de Oleiros    4 003     422 | 15-01-2016
+00000440 | Pablo Alana Fiães Ramalho | Lisboa    Vila Franca de Xira    Calhandriz    847    712 | 27-07-2016
+00000441 | Ivone Jonathan Chamusca | Porto    Paços de Ferreira    Freamunde    7 452     468 | 29-01-2016
+00000442 | Hercília Augusta Junqueira | Braga    Barcelos    Viatodos    2 027     401 | 15-06-2016
+00000443 | Carol Quixote Dantas Casalinho | Viseu    Carregal do Sal    Currelos    2 261     1 141 | 19-01-2016
+00000444 | Clélia Barreiros | Vila Real    Vila Real    Lamares    419    1 533 | 20-04-2016
+00000445 | Soraia Sabino Borges | Braga    Braga    Tebosa    1 096     266 | 10-11-2016
+00000446 | Cristiano Elza Bouças | Guarda    Mêda    Rabaçal    348    1 358 | 15-07-2016
+00000447 | Cornélia Ângelo Marcondes Ruas | Bragança    Alfândega da Fé    Sendim da Ribeira    118    1 535 | 09-08-2016
+00000448 | Sabina Adrião Paiva | Beja    Ferreira do Alentejo    Odivelas    692    10 996 | 14-06-2016
+00000449 | Aparecida Claudino Malheiro | Lisboa    Lisboa    Lapa    8 671     72 | 22-06-2016
+00000450 | Eduarda Geraldina Colaço Fialho | Viseu    Moimenta da Beira    Baldos    253    416 | 15-01-2016
+00000451 | Valadares Armindo Gois Cascais | Guarda    Sabugal    Ruivós    68    1 106 | 18-02-2016
+00000452 | Altina Érica Britto Dutra | Braga    Braga    Morreira    796    352 | 07-09-2016
+00000453 | Emídio Máxima Areosa | Bragança    Alfândega da Fé    Alfândega da Fé    2 016     4 455 | 07-02-2016
+00000454 | Elaine Guilherme Miguel | Aveiro    Castelo de Paiva    Real    1 371     3 317 | 01-12-2016
+00000455 | Margarete Bárbara Padilla Fonseca | Santarem    Torres Novas    Lapas    2 050     495 | 26-02-2016
+00000456 | Marisol Pais | Guarda    Sabugal    Aldeia Velha    490    1 885 | 13-09-2016
+00000457 | Calebe Vital Cortês | Viseu    S. Pedro do Sul    S. Félix    399    373 | 09-11-2016
+00000458 | Glória Jorge Vilas Boas | Setúbal    Santiago do Cacém    Abela    1 107     13 758 | 11-01-2016
+00000459 | Magda Vilhena | Castelo Branco    Covilhã    Aldeia do Souto    265    1 021 | 20-04-2016
+00000460 | Alfeu Francisco Neves | Castelo Branco    Belmonte    Colmeal da Torre    894    731 | 03-03-2016
+00000461 | Jesabel Olímpia Gravato | Aveiro    Arouca    Janarde    159    1 746 | 28-05-2016
+00000462 | Michael Teófilo Vilas Boas Rebimbas | Viana do castelo    Arcos de Valdevez    Carralcova    132    1 029 | 26-07-2016
+00000463 | Assunção Glena Afonso Rangel | Vila Real    Peso da Régua    Loureiro    1 452     512 | 19-05-2016
+00000464 | Laila Gaspar Silveira  | Vila Real    Chaves    Madalena    2 004     605 | 17-02-2016
+00000465 | Amilcar Graziela Covinha Graça | Braga    Vila Verde    Travassós    217    93 | 18-09-2016
+00000466 | Ediberto Virgolina Cachão | Açores    Horta    Praia do Almoxarife    746    1 004 | 05-10-2016
+00000467 | Ermengarda Vilmar Simas Assunção | Braga    Vieira do Minho Anissó    263    493 | 28-05-2016
+00000468 | Nina Pamplona | Lisboa    Lisboa    Santiago    857    6 | 28-01-2016
+00000469 | Dora Júlia Quintana Olivares | Lisboa    Torres Vedras    Campelos    2 708     2 420 | 19-05-2016
+00000470 | Péricles Vilarim | Viana do castelo    Caminha    Riba de Âncora    778    857 | 06-06-2016
+00000471 | Silva Hirondina Diniz | Bragança    Moncorvo    Maçores    223    1 601 | 20-08-2016
+00000472 | Anaísa Clotilde Barroso Gentil | Lisboa    Cadaval    Pêro Moniz    644    2 553 | 25-01-2016
+00000473 | Carla Leitão | Porto    Marco de Canaveses    Magrelos    982    325 | 16-03-2016
+00000474 | Ulisses Rivero | Vila Real    Alijó    Vilar de Maçada    1 236     1 975 | 16-07-2016
+00000475 | Silvéria Ângela Espírito Santo Rico | Viseu    Carregal do Sal    Cabanas de Viriato    1 698     2 194 | 14-12-2016
+00000476 | Iracema Adérito Regalado | Guarda    Trancoso    Fiães    263    1 003 | 14-07-2016
+00000477 | Idalécio Duarte Monsanto Boga | Porto    Lousada    Covas    763    129 | 13-01-2016
+00000478 | Paulina Faustino | Coimbra    Figueira da Foz    Paião    2 404     2 038 | 29-12-2016
+00000479 | Tarcísio Óscar Motta Neres | Guarda    Figueira de Castelo Rodrigo    Almofala    250    2 986 | 06-03-2016
+00000480 | Amanda Aarão Batata Valadares | Viana do castelo    Vila Nova de Cerveira    Vila Nova de Cerveira    1 264     332 | 25-08-2016
+00000481 | Olímpio Lara | Guarda    Pinhel    Ervas Tenras    157    487 | 29-12-2016
+00000482 | Franklin Cássio Mourão | Santarem    Vila Nova da Barquinha    Moita do Norte    2 067     713 | 21-02-2016
+00000483 | Carmo Clarissa Braz Pederneiras | Viseu    Sernancelhe    Penso    244    771 | 22-02-2016
+00000484 | Adolfo Britto | Braga    Barcelos    Airó    946    381 | 14-06-2016
+00000485 | Natália Barreiros | Castelo Branco    Castelo Branco    Freixial do Campo    537    1 862 | 31-08-2016
+00000486 | Melinda Fiães | Braga    Amares    Bico    528    215 | 28-10-2016
+00000487 | Martim Odair Janes Ornellas | Guarda    Pinhel    Pinhel    3 462     4 494 | 08-08-2016
+00000488 | Leonardo Mont'Alverne | Castelo Branco    Oleiros    Oleiros    2 470     11 939 | 23-01-2016
+00000489 | Diogo Neiva | Braga    Barcelos    Faria    583    301 | 02-11-2016
+00000490 | Plácido Severo | Bragança    Vinhais    S. Jomil    62    796 | 16-12-2016
+00000491 | Benedita Basílio Belchior | Guarda    Almeida    S. Pedro de Rio Seco    202    2 352 | 28-04-2016
+00000492 | Felicidade Joaquina Palha | Braga    Barcelos    Góios    567    270 | 06-09-2016
+00000493 | Elton Ramalho | Aveiro    Castelo de Paiva    S. Martinho de Sardoura    1 931     375 | 26-10-2016
+00000494 | Urbano Abrantes | Bragança    Bragança    Milhão    205    2 821 | 04-12-2016
+00000495 | Melissa Georgina Rebotim Teves | Lisboa    Lisboa    Sé    1 160     12 | 09-12-2016
+00000496 | Herculano Hernandes | Guarda    Sabugal    Aldeia Velha    490    1 885 | 06-04-2016
+00000497 | Vitória Joaquina Cabral | Porto    Paços de Ferreira    Penamaior    3 619     791 | 11-07-2016
+00000498 | Gilberta Benito Botica Caires | Braga    Vila Nova de Famalicão    Outiz    943    287 | 09-04-2016
+00000499 | Ema Moraes | Braga    Barcelos    Gueral    417    205 | 15-05-2016
+00000500 | Rute Dúnia Linares | Leiria    Alvaiázere    Almoster    791    2 558 | 12-12-2016
+00000501 | Ramiro Pelágio Castilhos | Vila Real    Valpaços    Algeriz    730    1 899 | 15-10-2016
+00000502 | Teresa Rabello | Aveiro    Arouca    Moldes    1 477     2 756 | 07-07-2016
+00000503 | Judite Dorisse Olaio | Braga    Barcelos    Tamel (Sta. Leocádia)    768    460 | 10-12-2016
+00000504 | Djamila Margarida Boeira | Viseu    Sernancelhe    Pereiro    156    485 | 28-09-2016
+00000505 | Afonso Bruna Mata | Lisboa    Torres Vedras    Carmões    847    684 | 31-07-2016
+00000506 | Altino Sandro Garcez | Guarda    Aguiar da Beira    Forninhos    272    1 076 | 31-01-2016
+00000507 | Disa Belém | Leiria    Porto de Mós    Porto de Mós (S. Pedro)    2 869     1 618 | 28-06-2016
+00000508 | Duílha Valdir Vidal | Braga    Cabeceiras de Basto    Rio Douro    1 210     4 352 | 05-01-2016
+00000509 | Valéria Hipólito Prado Borba | Coimbra    Cantanhede    Murtede    1 530     2 027 | 29-02-2016
+00000510 | Valério Fontoura | Vila Real    Montalegre    Tourém    185    1 661 | 07-08-2016
+00000511 | Rosária Marcela Belém | Aveiro    Ovar    Ovar    17 185     4 898 | 18-01-2016
+00000512 | Ariela Afonso Albernaz Lancastre | Braga    Cabeceiras de Basto    Arco de Baúlhe    1 808     437 | 19-09-2016
+00000513 | Quixote Emília Zambujal Martínez | Bragança    Carrazeda de Ansiães    Selores    171    819 | 11-04-2016
+00000514 | Herodes Dinorah Casqueira | Coimbra    Figueira da Foz    Borda do Campo    953    964 | 13-02-2016
+00000515 | Graciete Osvaldo Coitinho Gil | Braga    Braga    Braga (Sé)    3 587     33 | 15-12-2016
+00000516 | Olegário Sosa | Viana do castelo    Caminha    Âncora    1 058     576 | 21-07-2016
+00000517 | Vanessa Macena | Vila Real    Chaves    Anelhe    538    1 249 | 08-12-2016
+00000518 | Ladislau Adalberto Salomão Taborda | Porto    Gondomar    Pias    1 081     270 | 25-12-2016
+00000519 | Jonathan Dário Gama | Castelo Branco    Proença-a-Nova    Montes da Senhora    925    3 373 | 26-06-2016
+00000520 | Cássio Egídio Festas Berenguer | Aveiro    Arouca    Moldes    1 477     2 756 | 02-05-2016
+00000521 | Norberto Volney Mourão | Braga    Braga    Braga (S. João do Souto)    932    22 | 13-06-2016
+00000522 | Laurentina Freire | Viana do castelo    Ponte da Barca    Vila Chã (S. João Baptista)    601    1 011 | 03-06-2016
+00000523 | Nadina Mariana Palha Barros | Viana do castelo    Arcos de Valdevez    Rio de Moinhos    499    410 | 06-04-2016
+00000524 | Geralda Nicolas Cavalheiro | Lisboa    Oeiras    Caxias    8 694     341 | 30-04-2016
+00000525 | Adauto Alda Rego Quezado | Évora    Évora    Sé e S. Pedro    2 027     60 | 31-08-2016
+00000526 | Durval Aida Colares Menezes | Viseu    Tabuaço    Vale de Figueira    146    471 | 30-01-2016
+00000527 | Lilian Sara Rios Pêcego | Viana do castelo    Caminha    Vilarelho    983    390 | 14-02-2016
+00000528 | Cidália Carminda Sosa | Lisboa    Lisboa    Encarnação    3 182     15 | 19-05-2016
+00000529 | Mira Cândida Gusmão Morgado | Viana do castelo    Viana do Castelo    Darque    7 798     662 | 20-08-2016
+00000530 | Máximo Galindo | Santarem    Rio Maior    Arrouquelas    608    2 781 | 18-01-2016
+00000531 | Delfina Calebe Serralheiro | Guarda    Guarda    Maçainhas de Baixo    1 146     1 316 | 17-03-2016
+00000532 | Junia Barreto | Viseu    Carregal do Sal    Currelos    2 261     1 141 | 11-01-2016
+00000533 | Adão Mainha | Viana do castelo    Ponte da Barca    Germil    70    1 373 | 02-03-2016
+00000534 | Francelina Ladislau Osório Rodríguez | Castelo Branco    Castelo Branco    S. Vicente da Beira    1 597     10 055 | 15-02-2016
+00000535 | Belisa Eustácia Flores | Leiria    Castanheira de Pera    Castanheira de Pera    3 579     5 005 | 28-05-2016
+00000536 | Ania Jasmim Bogalho | Castelo Branco    Oleiros    Estreito    969    6 873 | 11-12-2016
+00000537 | Albino Bentes | Santarem    Santarem    Vale de Figueira    1 294     2 143 | 16-12-2016
+00000538 | Cornélio Loureiro | Porto    Paredes    Gandra    5 804     1 206 | 18-05-2016
+00000539 | Ermínio Basílio Pestana  Vides | Leiria    Porto de Mós    Mendiga    1 016     2 001 | 29-05-2016
+00000540 | Antero Marques | Porto    Felgueiras    Varziela    1 985     280 | 26-05-2016
+00000541 | Normando Laura Caldeira | Coimbra    Penela    Rabaçal    339    879 | 11-04-2016
+00000542 | Pablo Laranjeira | Porto    Paredes    Bitarães    2 536     352 | 23-03-2016
+00000543 | Josefina Marco Gonçalves Pacheco | Coimbra    Arganil    Anceriz    188    423 | 21-01-2016
+00000544 | Lino Cirne | Coimbra    Cantanhede    Cantanhede    7 066     4 653 | 09-08-2016
+00000545 | Basílio Villalobos | Braga    Vila Nova de Famalicão    Vermoim    2 893     486 | 19-05-2016
+00000546 | Renan Leocádia Candeias | Santarem    Tomar    Asseiceira    3 201     2 899 | 28-07-2016
+00000547 | Cesário Madeira | Bragança    Moncorvo    Lousa    508    3 497 | 21-09-2016
+00000548 | Sueli Salgueiro | Porto    Marco de Canaveses    Tabuado    1 387     864 | 05-02-2016
+00000549 | Adriano Nei Águeda | Viseu    Castro Daire    Gosende    557    2 057 | 28-02-2016
+00000550 | Agnete Nuno Macieira Almada | Lisboa    Mafra    Venda do Pinheiro    4 660     1 443 | 21-10-2016
+00000551 | Alfredo Rodrigues | Viseu    Moimenta da Beira    Rua    678    942 | 17-11-2016
+00000552 | Lissa Camilo Barroqueiro | Viseu    Tarouca    Ucanha    423    528 | 27-07-2016
+00000553 | Volney Salles | Bragança    Mirandela    Vale de Telhas    364    1 335 | 10-09-2016
+00000554 | Romeu Carvalhosa | Aveiro    Sta. Maria da Feira    Louredo    1 459     867 | 08-08-2016
+00000555 | Roberta Mónica Sintra Cruz | Viana do castelo    Monção    Cambeses    484    417 | 16-02-2016
+00000556 | Wilian Banha | Setúbal    Almada    Almada    19 514     142 | 05-10-2016
+00000557 | Alva Barnabé Covelhã | Coimbra    Miranda do Corvo    Rio Vide    897    1 146 | 30-08-2016
+00000558 | Ermínia Cláudio Torcuato | Viana do castelo    Valença    Taião    152    868 | 19-11-2016
+00000559 | Rui Liberato | Viana do castelo    Arcos de Valdevez    Prozelo    1 020     415 | 19-04-2016
+00000560 | Romana Cruz | Bragança    Vinhais    Sobreiro de Baixo    404    1 868 | 03-05-2016
+00000561 | Romeu Carreira | Lisboa    Lisboa    S. Cristovão e S. Lourenço    1 612     8 | 10-11-2016
+00000562 | Ariana Dorotéia Lobato | Coimbra    Tábua    S. João da Boa Vista    484    1 000 | 29-05-2016
+00000563 | Ulisses Boga | Bragança    Freixo de Espada à Cinta    Fornos    323    2 343 | 25-06-2016
+00000564 | Alberto Armanda Sotomayor Souto Maior | Leiria    Ansião    Pousaflores    1 201     2 636 | 12-11-2016
+00000565 | Mateus Palos | Beja    Beja    Sta. Vitória    750    11 103 | 22-03-2016
+00000566 | Íris Lita Ginjeira Freitas | Viseu    Resende    Resende    2 873     1 199 | 25-09-2016
+00000567 | Olinda Augusta Costa Brião | Leiria    Leiria    Colmeias    3 717     3 311 | 06-01-2016
+00000568 | Mira Bentes | Viana do castelo    Valença    Ganfei    1 312     935 | 28-04-2016
+00000569 | Dina Eutímio Madruga | Porto    Póvoa de Varzim    Póvoa de Varzim    27 810     525 | 14-02-2016
+00000570 | Obede Nivaldo Passos Palma | Bragança    Vinhais    Mofreita    44    1 250 | 02-09-2016
+00000571 | Índia Alexander Girão Velázquez | Bragança    Bragança    Sortes    320    2 193 | 08-10-2016
+00000572 | Agostinho Aurora Rosmaninho Mora | Braga    Braga    Ruilhe    1 306     172 | 04-10-2016
+00000573 | Alana Eutímio Teixeira Godoi | Viseu    Sátão    Silvã de Cima    549    663 | 31-10-2016
+00000574 | Consuelo Valentim Onofre | Açores    Vila do Porto    Almagreira    537    1 058 | 19-05-2016
+00000575 | Batista Meneses | Madeira    Calheta (Madeira)    Paúl do Mar    885    170 | 22-05-2016
+00000576 | Loide George Matos | Braga    Guimarães    S. Torcato    3 624     1 056 | 26-12-2016
+00000577 | Liliana Salomão Festas | Braga    Fafe    Fareja    877    344 | 06-06-2016
+00000578 | Cinara Sílvia Neres | Setúbal    Montijo    Poceirão    4 304     14 707 | 15-09-2016
+00000579 | Yasmin Nara Vilas Boas | Braga    Póvoa de Lanhoso (N. S. do Amparo)    Louredo    403    139 | 16-03-2016
+00000580 | Virgolino Chagas | Açores    Praia da Vitória    Praia da Vitória (Sta Cruz)    6 171     3 015 | 30-06-2016
+00000581 | Delfim Benjamim Botica | Viana do castelo    Caminha    Venade    866    585 | 17-07-2016
+00000582 | Íris Marcos Cerveira | Coimbra    Cantanhede    Corticeiro de Cima    858    558 | 04-07-2016
+00000583 | Adrião Forte | Viana do castelo    Arcos de Valdevez    Loureda    219    462 | 25-12-2016
+00000584 | Ladislau Naomi Parafita | Braga    Celorico de Basto    Rego    1 184     1 623 | 08-12-2016
+00000585 | Filomena Julieta Mont'Alverne | Braga    Guimarães    Pinheiro    1 301     151 | 01-09-2016
+00000586 | Alma Neto | Bragança    Mogadouro    Castro Vicente    420    3 376 | 16-12-2016
+00000587 | Leocádio Maristela Moura | Porto    Baião    Campelo    2 774     1 639 | 26-10-2016
+00000588 | Capitolina Elton Serralheiro | Coimbra    Condeixa-a-Nova    Furadouro    223    1 368 | 09-11-2016
+00000589 | Agostinha Mederos | Viana do castelo    Valença    Cristelo Covo    847    366 | 12-01-2016
+00000590 | Carolina Simão Caiado Machado | Viana do castelo    Viana do Castelo    Meadela    8 685     747 | 07-03-2016
+00000591 | Lurdes Cinira Meira | Bragança    Vimioso    Vilar Seco    220    2 308 | 02-10-2016
+00000592 | Hirondina Melinda Lousado | Lisboa    Vila Franca de Xira    Calhandriz    847    712 | 16-07-2016
+00000593 | Joel Atílio Marques Castilho | Vila Real    Peso da Régua    Galafura    835    1 301 | 01-03-2016
+00000594 | Solange Cândido Loio Bethecourt | Viana do castelo    Monção    Podame    321    366 | 11-08-2016
+00000595 | Plácida Apolónia Junqueira | Viana do castelo    Ponte de Lima    Sta. Comba    680    166 | 09-12-2016
+00000596 | Godofredo Lúcio Bezerril Rebelo | Viana do castelo    Caminha    Riba de Âncora    778    857 | 22-02-2016
+00000597 | Gilberto Núria Cerqueira | Santarem    Ourém    Formigais    444    1 153 | 12-09-2016
+00000598 | Heloísa Jessé Baldaia | Vila Real    Ribeira de Pena    Santo Aleixo de Além-Tâmega    447    1 230  | 19-12-2016
+00000599 | Ubiratã Hollanda | Castelo Branco    Penamacôr    Vale da Senhora da Póvoa    333    1 939  | 17-06-2016
+00000600 | Mavilde Sebastião Onofre Carvalheiro | Castelo Branco    Sertã    Figueiredo    286    1 470 | 29-06-2016
+00000601 | Moisés Clodoaldo Grangeia | Aveiro    Castelo de Paiva    Fornos    1 602     439 | 11-01-2016
+00000602 | Capitolino Medeiros | Setúbal    Almada    Cacilhas    6 970     97 | 20-10-2016
+00000603 | Orlanda Gouveia | Coimbra    Oliveira do Hospital    Vila Pouca da Beira    383    512 | 10-02-2016
+00000604 | Teófilo Acúrcio Keil Torquato | Setúbal    Alcochete    Samouco    2 788     483 | 10-03-2016
+00000605 | Armanda Mara Covinha | Porto    Amarante    Bustelo    577    665 | 07-11-2016
+00000606 | Lourival Borja | Viseu    Moimenta da Beira    Arcozelos    744    856 | 21-11-2016
+00000607 | Reginaldo Irene Pallos | Bragança    Carrazeda de Ansiães    Castanheiro    586    1 298 | 21-09-2016
+00000608 | Catarina Dulcineia Castelo | Castelo Branco    Oleiros    Álvaro    315    3 363 | 01-12-2016
+00000609 | Rodolfo Vera Leão Hipólito | Braga    Vila Nova de Famalicão    Bente    959    130 | 08-10-2016
+00000610 | Vicente Iara Lousã | Coimbra    Condeixa-a-Nova    Sebal    1 793     1 668 | 28-12-2016
+00000611 | Nabal Marroquim | Bragança    Moncorvo    Urros    325    5 743  | 02-12-2016
+00000612 | Rosália Vital Caparica | Braga    Barcelos    Roriz    2 152     691 | 14-02-2016
+00000613 | Salvador Aura Peres  Vides | Braga    Braga    Merelim (S. Pedro)    1 710     234 | 27-05-2016
+00000614 | Melissa Maitê Zagallo | Viseu    Mangualde    Freixiosa    280    716 | 10-10-2016
+00000615 | Getúlio Soto | Bragança    Mirandela    Navalho    130    856 | 08-04-2016
+00000616 | Octávio Bogado | Braga    Barcelos    Cambeses    1 346     341 | 29-05-2016
+00000617 | Esdras Leonel Garrau | Viseu    Resende    S. João de Fontoura    857    521 | 24-09-2016
+00000618 | Luca Belém | Viana do castelo    Ponte de Lima    Cepões    586    389 | 18-11-2016
+00000619 | Alexander Arminda Torrado | Viana do castelo    Ponte de Lima    Gondufe    435    608 | 17-04-2016
+00000620 | Evelina Mafalda Malho Couto | Porto    Vila Nova de Gaia    S. Pedro da Afurada    3 442     100 | 10-05-2016
+00000621 | Simão Bárbara Ferreira | Leiria    Porto de Mós    Alcaria    256    1 415 | 20-08-2016
+00000622 | Olímpio Dalila Malheiro | Guarda    Almeida    Monte Perobolço    79    815 | 08-06-2016
+00000623 | Adelmiro Varella | Viana do castelo    Valença    S. Pedro da Torre    1 232     429 | 03-11-2016
+00000624 | Cristiana Cotrim | Santarem    Chamusca    Pinheiro Grande    1 051     3 216 | 06-08-2016
+00000625 | Clementino Deolinda Silvestre | Bragança    Vinhais    Mofreita    44    1 250 | 22-10-2016
+00000626 | Agostinha Edgar Bastos Alancastro | Aveiro    Sever do Vouga    Cedrim    995    847 | 01-07-2016
+00000627 | Patrícia Ermengarda Teixeira | Lisboa    Lisboa    Sacramento    880    8 | 29-08-2016
+00000628 | Baltasar Albino Brum | Évora    Portel    Santana    628    4 189 | 03-05-2016
+00000629 | Firmino Valentina Farias Caparica | Braga    Guimarães    Moreira de Cónegos    5 828     445 | 10-07-2016
+00000630 | Anabela Silvestre Angelim | Braga    Celorico de Basto    Infesta    316    589 | 30-03-2016
+00000631 | Énio Mara Albernaz Machado | Lisboa    Amadora    Mina    18 915     276 | 18-04-2016
+00000632 | Baltasar Norberto Escobar | Viana do castelo    Vila Nova de Cerveira    Sopo    576    1 391 | 08-09-2016
+00000633 | Frederica Ângelo Castello Magalhães | Santarem    Tomar    Madalena    3 466     3 056 | 21-12-2016
+00000634 | Valentina Adrião Rodríguez Leite | Lisboa    Mafra    Mafra    11 276     4 767 | 14-11-2016
+00000635 | Francisca Hélder Simas Brião | Santarem    Santarem    Abrã    1 221     2 242 | 01-08-2016
+00000636 | Ubiratã Teodoro | Braga    Guimarães    Gémeos    548    171 | 28-06-2016
+00000637 | Clóvis Índia Taborda Varela | Beja    Alvito    Vila Nova da Baronia    1 328     12 454  | 03-02-2016
+00000638 | Josefa Élia Monforte | Coimbra    Figueira da Foz    S. Pedro    2 705     583 | 16-07-2016
+00000639 | Mira Donaldo Caldas Hilário | Viana do castelo    Ponte da Barca    Entre Ambos-os-Rios    542    1 478 | 18-05-2016
+00000640 | Anabela Keila Sales Ornelas | Porto    Porto    Miragaia    2 810     49 | 24-06-2016
+00000641 | Gilberto Volney Camargo | Porto    Vila do Conde    Parada    365    334 | 12-02-2016
+00000642 | Leocádio Naomi Marques Tabosa | Aveiro    Oliveira do Bairro    Palhaça    2 330     1 015 | 24-10-2016
+00000643 | Hipólito Peçanha | Viseu    Tabuaço    Adorigo    420    1 055 | 21-04-2016
+00000644 | Augusto Benito Carreira | Leiria    Porto de Mós    Porto de Mós (S. João Baptista)    2 919     1 498 | 16-12-2016
+00000645 | Silvéria Fausto Varanda Padilha | Aveiro    Anadia    Tamengos    1 623     836 | 29-04-2016
+00000646 | Lisandra Valdir Portela Santos | Santarem    Cartaxo        Lapa    1 205     628 | 04-06-2016
+00000647 | Adalgisa Hermínia Vilarim | Bragança    Vila Flor    Trindade    177    1 350 | 26-08-2016
+00000648 | Israel Abigail Lara | Vila Real    Vila Real    Andrães    1 511     2 037 | 25-05-2016
+00000649 | Guida Horácio Quintero Homem | Viseu    Castro Daire    Ermida    297    893 | 29-08-2016
+00000650 | Sidney Batista Prada | Lisboa    Lourinhã    Moita dos Ferreiros    1 740     2 475 | 03-05-2016
+00000651 | Serena Guilherme Paião | Viseu    S. João da Pesqueira    Nagozelo do Douro    517    661 | 15-09-2016
+00000652 | Elza Mónica Marroquim | Guarda    Guarda    Corujeira    143    474 | 16-07-2016
+00000653 | Elizabeth Pacheco | Coimbra    Cantanhede    Covões    2 468     2 821 | 29-02-2016
+00000654 | Benvinda Lídia Braz Castilhos | Bragança    Vinhais    Nunes    187    853 | 30-05-2016
+00000655 | Adorinda Alírio Bairros | Vila Real    Chaves    Vilela do Tâmega    451    956 | 19-02-2016
+00000656 | Salvador Emanuela Rêgo | Porto    Lousada    Barrosas (Santo Estevão)    933    470 | 27-12-2016
+00000657 | Lia Plácido Pamplona | Viseu    Penalva do Castelo    Esmolfe    485    1 070 | 03-07-2016
+00000658 | Idalina Ulhoa | Faro    Castro Marim    Alcoutim    1 099     12 960 | 03-03-2016
+00000659 | Ermínio Graciete Valgueiro Mora | Viseu    Viseu    Viseu (Coração de Jesus)    8 716     227 | 22-03-2016
+00000660 | Afonso Inês | Porto    Amarante    Telões    4 535     1 386 | 11-05-2016
+00000661 | Sebastião Elen Maltez Regalado | Setúbal    Setúbal    Setúbal (Sta. Maria da Graça)    5 340     75 | 24-12-2016
+00000662 | Orlanda Clementino Lameiras Bairros | Lisboa    Loures    Camarate    18 822     517 | 08-06-2016
+00000663 | Wilson Fabiana Fontes Gameiro | Castelo Branco    Fundão    Soalheira    1 130     1 394 | 01-02-2016
+00000664 | Firmina Joviano Rosário Pais | Viana do castelo    Viana do Castelo    Mujães    1 691     472 | 01-06-2016
+00000665 | Helena Clarisse Ventura | Leiria    Leiria    Monte Redondo    4 335     4 207 | 29-09-2016
+00000666 | Celina Cascais | Porto    Porto    Sé    4 751     48 | 17-11-2016
+00000667 | Rodolfo Neusa Pimentel | Braga    Guimarães    Briteiros (Santo Estevão)    1 348     296 | 21-02-2016
+00000668 | Urbano Betancour | Beja    Mértola    Mértola    3 093     31 813 | 29-10-2016
+00000669 | Milene Vasconcelos | Leiria    Alcobaça    S. Martinho do Porto    2 644     1 501 | 10-03-2016
+00000670 | Dulcineia Sílvio Castro | Braga    Guimarães    Sande (Vila Nova)    1 848     296 | 22-09-2016
+00000671 | Liane Josafá Pamplona | Porto    Maia    Milheirós    4 237     342 | 21-06-2016
+00000672 | Maitê Celso Quadros | Viseu    Armamar    Coura    65    517 | 13-06-2016
+00000673 | Eduarda Jaime Borba Arantes | Braga    Esposende    Gandra    1 254     555 | 16-09-2016
+00000674 | Gilda Noélia Marcondes Dantas | Beja    Almodôvar    Sta. Clara-a-Nova    656    10 820 | 18-02-2016
+00000675 | Clarissa Camargo | Braga    Braga    Nogueiró    2 118     281 | 11-11-2016
+00000676 | Rosária Seixas | Braga    Barcelos    Vila Seca    1 275     608 | 10-04-2016
+00000677 | Leopoldo Deonilde Cidreira Mello | Braga    Guimarães    Vizela (S. Faustino)    1 050     211 | 29-04-2016
+00000678 | Fábia Neli Hilário | Viana do castelo    Arcos de Valdevez    Grade    402    485 | 19-01-2016
+00000679 | Iracema Lameirinhas | Leiria    Leiria    Amor    4 738     1 813 | 20-08-2016
+00000680 | Nei Saloio | Bragança    Mirandela    Vale de Gouvinhas    380    1 769 | 03-06-2016
+00000681 | Brandon Valverde | Aveiro    Murtosa    Torreira    2 495     3 209  | 16-10-2016
+00000682 | Jesus Brião | Viana do castelo    Melgaço    Remoães    124    96 | 14-07-2016
+00000683 | Norma Reginaldo Mattos | Guarda    Celorico da Beira    Carrapichana    269    596 | 30-07-2016
+00000684 | Ademar Selma Pêssego Flores | Lisboa    Alenquer    Carnota    1 695     1 803 | 11-11-2016
+00000685 | Omar Cornélio Pardo Fartaria | Açores    Ponta Delgada    Ponta Delgada (S. Pedro)    7 177     281 | 02-04-2016
+00000686 | Cléber Letras | Aveiro    Arouca    Janarde    159    1 746 | 23-10-2016
+00000687 | Telma Mondragão | Porto    Marco de Canaveses    Sobretâmega    1 124     407 | 05-08-2016
+00000688 | Daniel Vilanova | Viana do castelo    Caminha    Vilar de Mouros    819    900 | 13-09-2016
+00000689 | Consuelo Maura Castelhano | Santarem    Alcanena    Alcanena    4 339     1 031 | 29-07-2016
+00000690 | Elisa Freiria | Guarda    Celorico da Beira    Carrapichana    269    596 | 12-08-2016
+00000691 | Regina Lia Carvalhoso Esteves | Setúbal    Alcácer do Sal    Alcácer do Sal (Santiago)    4 850     28 298 | 07-11-2016
+00000692 | Wilker Cibelli Bacelar Rosmaninho | Aveiro    Anadia    Arcos    5 533     1 202 | 26-03-2016
+00000693 | Neli Natanael Gorjão Melancia | Aveiro    Castelo de Paiva    Real    1 371     3 317 | 09-11-2016
+00000694 | Roberto Delfim Calheiros Valente | Bragança    Mogadouro    Valverde    196    2 397 | 10-07-2016
+00000695 | Natacha Valladares | Guarda    Almeida    Malhada Sorda    364    4 815 | 22-07-2016
+00000696 | Vânia Santos | Porto    Maia    Silva Escura    2 113     558 | 16-02-2016
+00000697 | Tabita Tavares | Viseu    Mortágua    Almaça    95    742 | 13-10-2016
+00000698 | Egídio Vilela | Porto    Amarante    Ansiães    815    2 643 | 28-05-2016
+00000699 | Sabino Caldas | Braga    Esposende    Vila Chã    1 410     830 | 29-08-2016
+00000700 | Calebe Corvelo | Setúbal    Santiago do Cacém    Sta. Cruz    500    2 628 | 17-05-2016
+00000701 | Neiva Margarida Paiva | Braga    Terras de Bouro Vilar da Veiga    1 530     8 364  | 30-10-2016
+00000702 | Jesabel Nazaré Manso Sampaio | Coimbra    Cantanhede    Sepins    1 200     1 109 | 16-02-2016
+00000703 | Etelvina Israel Reis | Porto    Paços de Ferreira    Eiriz    2 123     486 | 02-02-2016
+00000704 | Liana Loio | Castelo Branco    Fundão    Salgueiro    807    5 649 | 13-12-2016
+00000705 | Fausto Morgado | Lisboa    Cadaval    Vilar    1 688     1 685  | 30-06-2016
+00000706 | Nádia Ademir Araújo | Braga    Barcelos    Vila Seca    1 275     608 | 22-02-2016
+00000707 | Pedro Jessé Bento | Bragança    Bragança    Castro de Avelãs    483    1 387 | 02-05-2016
+00000708 | Dulcineia André Alancastre Parracho | Vila Real    Sabrosa    Celeiros    267    525 | 01-04-2016
+00000709 | Acácio George Barata Veleda | Castelo Branco    Castelo Branco    Lousa    752    3 572 | 30-12-2016
+00000710 | Nívea Rijo | Lisboa    Arruda dos Vinhos    Arruda dos Vinhos    5 835     3 424 | 07-09-2016
+00000711 | Naomi Vilela | Leiria    Leiria    Pousos    7 325     1 579 | 20-06-2016
+00000712 | Neusa Carromeu | Évora    Estremoz    S. Bento do Cortiço    717    2 341 | 06-10-2016
+00000713 | Ezequias Lucrécia Pontes Varejão | Porto    Matosinhos    Leça da Palmeira    17 215     597 | 13-03-2016
+00000714 | Leticia Keil do Amaral | Guarda    Seia    Sameice    397    945 | 29-07-2016
+00000715 | Benito Belinda Alancastro | Braga    Barcelos    Milhazes    984    306 | 09-12-2016
+00000716 | Adelinda Damiana Caeira | Leiria    Alcobaça    S. Martinho do Porto    2 644     1 501 | 19-08-2016
+00000717 | Eva Jacob França | Vila Real    Sabrosa    Souto Maior    563    932 | 01-09-2016
+00000718 | Pablo Vieira Morão Bairros | Viseu    Castro Daire    Mões    2 109     4 533 | 12-12-2016
+00000719 | Naum Cesária Lamego | Braga    Vieira do Minho Cantelães    933    1 118 | 17-09-2016
+00000720 | Maura Isolda Valente | Évora    Reguengos de Monsaraz    Campinho    917    4 711 | 25-11-2016
+00000721 | Joaquim Murtinho | Viana do castelo    Caminha    Vilarelho    983    390 | 10-02-2016
+00000722 | Marisa Wilian Felipe Basílio | Viseu    S. Pedro do Sul    Sta. Cruz da Trapa    1 389     2 129 | 21-05-2016
+00000723 | Nestor Carrasqueira | Açores    Ponta Delgada    Mosteiros    1 196     898 | 31-07-2016
+00000724 | Fausto Belchiorinho | Bragança    Mogadouro    Vale de Porco    158    1 586 | 23-09-2016
+00000725 | Maurícia Rosário Covinha Faro | Porto    Marco de Canaveses    Vila Boa do Bispo    3 085     1 171  | 04-08-2016
+00000726 | Gonçalo Joyce Pedro Filipe | Braga    Guimarães    Mascotelos    1 328     131 | 05-04-2016
+00000727 | Aurora Íris Outeiro Sequeira | Castelo Branco    Covilhã    Orjais    859    1 555 | 09-10-2016
+00000728 | Altair Jesabel Mangueira Marinho | Coimbra    Penacova    Sazes do Lorvão    814    1 783 | 04-11-2016
+00000729 | Dário Novaes | Braga    Vila Nova de Famalicão    Cruz    1 636     382 | 28-04-2016
+00000730 | Filipa Gildo Fialho | Vila Real    Sabrosa    Provesende    356    896 | 29-03-2016
+00000731 | Noemi Cesário Pádua | Braga    Guimarães    Pencelo    1 444     237 | 13-02-2016
+00000732 | Frederica Artur Melancia Pardo | Guarda    Pinhel    Sorval    88    725 | 24-12-2016
+00000733 | Elaine Mexia | Viana do castelo    Arcos de Valdevez    Ázere    294    300 | 26-11-2016
+00000734 | Olivier Consuelo Alves Caneira | Viseu    Cinfães    Espadanedo    1 406     547 | 06-05-2016
+00000735 | Duarte Valadares Correia Rufino | Viseu    Cinfães    Bustelo    153    581 | 03-06-2016
+00000736 | Florência Garrido | Vila Real    Sabrosa    Parada de Pinhão    347    545 | 10-02-2016
+00000737 | Celestina Élio Sanches Vargas | Vila Real    Chaves    Mairos    359    1 227 | 31-03-2016
+00000738 | Gilberto Negrão | Bragança    Macedo de Cavaleiros    Lamalonga    475    1 697 | 04-12-2016
+00000739 | Olívia Pessanha | Bragança    Macedo de Cavaleiros    Corujas    213    968 | 31-10-2016
+00000740 | Florbela Hipólito | Guarda    Almeida    Peva    140    1 453 | 29-08-2016
+00000741 | Eustácia Estevão Trigueiro | Braga    Barcelos    Tregosa    695    505 | 01-09-2016
+00000742 | Paulo Lisandro Vilar Naves | Faro    Tavira    Tavira (Sta. Maria)    6 672     13 509 | 16-06-2016
+00000743 | Carmen Brígido Doutiz | Guarda    Guarda    Vale de Estrela    418    1 295 | 22-04-2016
+00000744 | Fábio Guterres | Viseu    Penedono    Beselga    354    1 519 | 15-02-2016
+00000745 | Cíntia Benjamim Raminhos | Viseu    Viseu    Farminhão    787    1 072 | 29-10-2016
+00000746 | Juliano Wilma Belo | Bragança    Alfândega da Fé    Parada    185    1 082 | 13-02-2016
+00000747 | Judith Cascais | Beja    Beja    Beja (Sta. Maria da Feira)    3 577     1 560 | 03-07-2016
+00000748 | Nazário Ruela | Braga    Celorico de Basto    Moreira do Castelo    615    576 | 27-08-2016
+00000749 | Dione Dourado | Aveiro    Aveiro    Eirol    781    440 | 15-06-2016
+00000750 | Diva Carreiro | Aveiro    Castelo de Paiva    Pedorido    1 593     1 196 | 20-05-2016
+00000751 | Maria Guerreiro | Guarda    Sabugal    Lajeosa    258    1 482 | 03-09-2016
+00000752 | Ubiratã Lobato | Santarem    Ourém    Freixianda    2 792     3 016 | 04-08-2016
+00000753 | Reginaldo Pablo Castilhos Regodeiro | Porto    Porto    Campanhã    38 757     813 | 11-02-2016
+00000754 | Rosana Paranhos | Leiria    Caldas da Rainha    Carvalhal Benfeito    1 339     1 408 | 06-04-2016
+00000755 | Benedito Borges | Santarem    Cartaxo        Vale da Pinta    1 438     917 | 28-05-2016
+00000756 | Laís Avelino Açores Marques | Santarem    Alcanena    Bugalhos    1 172     1 639 | 13-01-2016
+00000757 | Mira Doutel | Bragança    Mirandela    Vale de Asnes    413    2 150 | 12-06-2016
+00000758 | Aline Isolina Quezado Villar | Açores    Sta. Cruz das Flores    Ponta Delgada    453    1 872 | 24-10-2016
+00000759 | Ismael Castro | Braga    Guimarães    Guimarães (Oliveira do Castelo)    3 448     61 | 09-04-2016
+00000760 | Pablo Menezes | Viana do castelo    Caminha    Lanhelas    1 080     435 | 07-11-2016
+00000761 | Salema Élia Ramires | Bragança    Carrazeda de Ansiães    Castanheiro    586    1 298 | 27-07-2016
+00000762 | Dirce Cristóvão Méndez | Vila Real    Montalegre    Paradela    221    1 234 | 26-01-2016
+00000763 | Quirina Quinterno | Lisboa    Sintra    Montelavar    3 645     1 144 | 29-09-2016
+00000764 | Ilda Elisa Saraiva Bensaúde | Viseu    Sernancelhe    Chavães    372    994 | 26-10-2016
+00000765 | Leopoldina Isolda Mederos Varela | Viseu    Sernancelhe    Pereiro    156    485 | 23-08-2016
+00000766 | Jonata Estrela | Coimbra    Mira    Carapelhos    766    392 | 30-07-2016
+00000767 | Lisandra Nélson Bouças | Castelo Branco    Covilhã    Canhoso    1 735     686 | 10-12-2016
+00000768 | Raimundo Damasceno | Coimbra    Arganil    Teixeira    188    1 960 | 15-09-2016
+00000769 | Nisa Trigueiro | Braga    Vieira do Minho Salamonde    484    839 | 28-09-2016
+00000770 | Fedra Álvaro | Bragança    Macedo de Cavaleiros    Sta. Combinha    72    490 | 08-02-2016
+00000771 | Ester Simas | Bragança    Vinhais    Vila Verde    240    1 430 | 10-01-2016
+00000772 | Samanta Félix | Guarda    Sabugal    Bismula    198    1 544 | 09-07-2016
+00000773 | Otoniel Altino Medeiros Queirós | Castelo Branco    Oleiros    Vilar Barroco    159    2 359  | 28-07-2016
+00000774 | Valter Paz | Açores    Nordeste    Santo António    (*)     (*) | 02-04-2016
+00000775 | Énio Wilian Dias | Lisboa    Lisboa    Penha de França    13 722     66 | 15-05-2016
+00000776 | Jacinta Ermínio Baía Cedro | Coimbra    Lousã    Gândaras    (*)     (*) | 07-04-2016
+00000777 | Libânia Guedelha | Coimbra    Arganil    Coja    1 650     2 063 | 03-09-2016
+00000778 | Dina Eugénio Oliveira | Braga    Vila Nova de Famalicão    Antas    5 376     435 | 09-01-2016
+00000779 | Dânia Gustavo Salgado Paixão | Braga    Vila Verde    Sande    592    439 | 22-10-2016
+00000780 | Marcos Dione Penha | Bragança    Bragança    Mós    194    1 146 | 18-11-2016
+00000781 | Carla Calvino Marreiro | Braga    Braga    Ruilhe    1 306     172 | 31-01-2016
+00000782 | Ciro Valentim Muniz | Braga    Esposende    Gemeses    1 115     551 | 09-08-2016
+00000783 | Clóvis Betancour | Viseu    Tarouca    Tarouca    3 416     1 968 | 08-07-2016
+00000784 | Fábio Ernane Soverosa | Porto    Porto    Cedofeita    24 784     266 | 02-04-2016
+00000785 | Arnaldo George Hernandes | Santarem    Ourém    Urqueira    1 910     3 128  | 04-09-2016
+00000786 | Telma Cangueiro | Beja    Mértola    Corte do Pinto    1 080     7 069 | 17-11-2016
+00000787 | Malvina Ataíde | Lisboa    Oeiras    Oeiras e S. Julião da Barra    34 850     227 | 10-06-2016
+00000788 | Nélson Leonel Pinhal Quadros | Bragança    Vinhais    Vila Boa de Ousilhão    195    763 | 26-05-2016
+00000789 | Leonel Carlos Mexia | Braga    Guimarães    Donim    989    337 | 27-08-2016
+00000790 | Alfredo Vasques | Viana do castelo    Monção    Pias    944    1 004 | 08-06-2016
+00000791 | Raimunda Edite Ornelas Guilheiro | Viseu    Sátão    Decermilo    215    439 | 27-03-2016
+00000792 | Libânio Albertina Borges Açores | Viseu    Viseu    Povolide    1 959     2 022 | 28-04-2016
+00000793 | Morgana Adonirã Bogado Felipe | Viana do castelo    Paredes de Coura    Formariz    614    505 | 04-11-2016
+00000794 | Sebastião Honória Cavaco | Évora    Évora    S. Sebastião da Giesteira    790    4 489 | 06-02-2016
+00000795 | Adriano Lorena Cartaxo Loio | Porto    Felgueiras    Várzea    2 412     255 | 07-03-2016
+00000796 | Custódio Blanco | Braga    Braga    Fraião    2 131     322 | 17-01-2016
+00000797 | Natalina Clóvis Sobral | Bragança    Carrazeda de Ansiães    Lavandeira    184    1 356 | 19-10-2016
+00000798 | Ari Cremilda Porciúncula | Viseu    Vouzela    Fornelo do Monte    330    1 524 | 04-04-2016
+00000799 | Cléber Jonathan Vargas Guerra | Porto    Gondomar    Macieira    1 421     142 | 17-07-2016
+00000800 | Berenice Berenguer | Lisboa    Azambuja    Aveiras de Baixo    1 355     1 888 | 04-11-2016
+00000801 | Joyce Narciso Pasos | Braga    Fafe    Serafão    1 195     697 | 01-12-2016
+00000802 | Cícero Hércules Girão Castel-Branco | Viana do castelo    Viana do Castelo    Vilar de Murteda    247    516 | 04-07-2016
+00000803 | Nadine Gil Serpa | Viana do castelo    Arcos de Valdevez    Jolda (S. Paio)    421    176 | 06-04-2016
+00000804 | Belmira Bouças | Vila Real    Boticas    Ardãos    311    2 241 | 28-09-2016
+00000805 | Romualdo Bernarda Carrasqueira Negrão | Coimbra    Figueira da Foz    Bom Sucesso    2 006     6 094 | 26-12-2016
+00000806 | Olga Boaventura | Viana do castelo    Arcos de Valdevez    Oliveira    369    411 | 07-05-2016
+00000807 | Octávia Herodes Melancia | Aveiro    Castelo de Paiva    Bairros    1 853     849 | 02-02-2016
+00000808 | Lucas Fedra Belmonte | Viana do castelo    Ponte da Barca    Vade (S. Tomé)    272    145 | 09-09-2016
+00000809 | Marta Lameirinhas | Viseu    Vouzela    S. Miguel do Mato    1 128     911 | 03-12-2016
+00000810 | Martinho Gertrudes Pinto Nogueira | Beja    Odemira    Zambujeira do Mar    844    4 296  | 07-01-2016
+00000811 | Licínio Dotel | Viana do castelo    Melgaço    Fiães    300    1 185 | 17-05-2016
+00000812 | Sidney Dália Castelo Branco Thomé | Porto    Felgueiras    Jugueiros    1 531     751 | 03-02-2016
+00000813 | Dirce Martinho Lobato | Porto    Amarante    Rebordelo    398    1 744 | 14-08-2016
+00000814 | Maitê Luis Lampreia Cotrim | Guarda    Trancoso    Fiães    263    1 003 | 29-08-2016
+00000815 | Disa Vitória Linares | Braga    Amares    Bouro (Sta. Marta)    565    961 | 15-04-2016
+00000816 | Vidigal Lino Ilha Vaz | Braga    Fafe    Monte    393    705 | 07-07-2016
+00000817 | Jerônimo Dione Penha | Guarda    Sabugal    Vilar Maior    168    2 482  | 13-02-2016
+00000818 | Herculano Cambezes | Évora    Évora    Torre de Coelheiros    817    22 623  | 30-05-2016
+00000819 | Julieta Mafra | Faro    Alcoutim    Pereiro    287    10 125 | 28-01-2016
+00000820 | Vital Nazário Vasques | Vila Real    Murça    Carva    256    1 500 | 25-10-2016
+00000821 | Josué Ferdinando Fagundes Méndez | Porto    Lousada    Figueiras    1 242     286 | 29-07-2016
+00000822 | Lino Rômulo Mattos Alcaide | Braga    Amares    Sequeiros    273    308 | 12-02-2016
+00000823 | Viviana Cristela Grilo Murtinho | Castelo Branco    Castelo Branco    Retaxo    1 047     1 231 | 21-08-2016
+00000824 | Dulce Morão | Viana do castelo    Arcos de Valdevez    Arcos de Valdevez (S. Paio)    1 112     320 | 29-12-2016
+00000825 | Luciana Adão Terra Frade | Porto    Amarante    Freixo de Baixo    1 543     639 | 23-09-2016
+00000826 | Roberto Manuel Freiria | Viana do castelo    Ponte da Barca    Crasto    509    240 | 26-09-2016
+00000827 | Jasmim Moniz | Castelo Branco    Castelo Branco    Ninho do Açor    473    1 190 | 17-08-2016
+00000828 | David Aarão Sotomayor | Açores    Horta    Praia do Almoxarife    746    1 004 | 15-06-2016
+00000829 | Glaucia Isaías Keil | Porto    Gondomar    Aveleda    1 952     369 | 16-10-2016
+00000830 | Lilian Mafra | Viseu    Nelas    Senhorim    1 453     3 108 | 20-09-2016
+00000831 | Vinicios Dânia Correia Viegas | Évora    Borba    Borba (Matriz)    3 701     4 123 | 12-09-2016
+00000832 | Maura Baião | Lisboa    Azambuja    Azambuja    6 914     8 345 | 04-08-2016
+00000833 | Cinara Diogo Tabosa | Porto    Lousada    Caíde de Rei    2 636     666 | 08-01-2016
+00000834 | Máxima Duarte | Vila Real    Montalegre    Fiães do Rio    104    693 | 22-10-2016
+00000835 | Mário Filipa Guilheiro | Aveiro    Castelo de Paiva    Sobrado    2 921     533 | 06-10-2016
+00000836 | Bonifácio Proença | Viana do castelo    Vila Nova de Cerveira    Lovelhe    440    338 | 15-10-2016
+00000837 | Calvino Grangeia | Aveiro    Vagos    Vagos    4 010     2 158  | 22-05-2016
+00000838 | Belmira Maura Pacheco Thomé | Coimbra    Coimbra    Brasfemes    1 847     1 031 | 06-02-2016
+00000839 | Nancy Martínez | Viana do castelo    Paredes de Coura    Cunha    542    1 175 | 06-04-2016
+00000840 | Cleusa Dóris Quintal Pacheco | Açores    Ponta Delgada    Ginetes    1 267     1 207 | 15-04-2016
+00000841 | Tomé Bonifácio Pastana | Bragança    Vinhais    Curopos    278    2 156 | 10-02-2016
+00000842 | Susete Ivete Taborda Esparteiro | Santarem    Santarem    Abrã    1 221     2 242 | 08-05-2016
+00000843 | Dinorah Parreira | Vila Real    Mesão Frio    Oliveira    456    340 | 16-11-2016
+00000844 | Xênia Ramires | Braga    Vila Nova de Famalicão    Louro    2 464     518 | 07-07-2016
+00000845 | Maísa Quintal | Guarda    Mêda    Aveloso    287    753 | 15-11-2016
+00000846 | Fabiano Evelina Dotel | Évora    Mora    Brotas    543    8 315 | 01-11-2016
+00000847 | Ado Taveiros | Porto    Paços de Ferreira    Carvalhosa    4 257     597 | 08-03-2016
+00000848 | Barnabé Licínio Patrício Torres | Castelo Branco    Covilhã    Covilhã (S. Martinho)    4 911     884 | 21-10-2016
+00000849 | Olga Ulisses Franca | Santarem    Santarem    Santarém (S. Salvador)    9 211     1 186 | 24-02-2016
+00000850 | Dejanira Fedra Conceição Setúbal | Vila Real    Vila Pouca de Aguiar    Soutelo de Aguiar    1 215     2 936 | 19-03-2016
+00000851 | Elaine Lara | Braga    Vila Nova de Famalicão    Delães    3 761     230 | 18-02-2016
+00000852 | Urbano Barnabé Banha | Porto    Póvoa de Varzim    Aguçadoura    4 530     347 | 22-08-2016
+00000853 | Herculano Carmo Neiva Malafaia | Braga    Barcelos    Areias    1 092     276 | 10-11-2016
+00000854 | Marisa Flora Lima | Viseu    Moimenta da Beira    Arcozelos    744    856 | 23-03-2016
+00000855 | Rubina Ingrid Gaspar Durão | Guarda    Gouveia    Figueiró da Serra    303    1 431 | 27-05-2016
+00000856 | Hildefonso Micaela Villela Vasconcelos | Viseu    Mortágua    Espinho    1 412     4 140 | 24-10-2016
+00000857 | Norma Espargosa | Porto    Penafiel    Canelas    1 780     1 186 | 03-04-2016
+00000858 | Lisandra Geraldino Rebocho Camarinho | Santarem    Santarem    Azoia de Cima    537    844 | 27-03-2016
+00000859 | Belmiro Petra Morão Sarmento | Coimbra    Penela    Penela (S. Miguel)    1 741     3 261 | 02-01-2016
+00000860 | Cristela Irma Velasques Dinis | Santarem    Sardoal    Sardoal    2 319     2 993 | 22-02-2016
+00000861 | Juca Aécio Lagoa Aranha | Bragança    Mirandela    Cedães    455    2 534 | 10-11-2016
+00000862 | Clemente Florbela Caires Camilo | Braga    Esposende    Antas    2 163     697 | 08-11-2016
+00000863 | Evaldo Máximo Quintana | Guarda    Sabugal    Vilar Maior    168    2 482  | 20-08-2016
+00000864 | Nicolas Almada | Bragança    Alfândega da Fé    Saldonha    102    842 | 25-08-2016
+00000865 | Kelvin Joyce Homem | Guarda    Celorico da Beira    Cadafaz    164    853 | 05-10-2016
+00000866 | Agostinha Queiroga | Braga    Barcelos    Igreja Nova    445    190 | 17-03-2016
+00000867 | Nilda Pinheiro | Bragança    Mirandela    Carvalhais    1 350     2 478 | 28-09-2016
+00000868 | Ada Edmundo Alcântara | Leiria    Peniche    Serra d'El-Rei    1 377     916 | 04-05-2016
+00000869 | Dinarte Dário Rezende | Porto    Penafiel    Penafiel    7 883     511 | 20-08-2016
+00000870 | Nero Helga Fartaria Sobral | Braga    Barcelos    Minhotães    883    335 | 28-07-2016
+00000871 | Mateus Isaías Vidigal Escobar | Porto    Maia    Gondim    1 929     138 | 26-03-2016
+00000872 | Darcy Almada | Porto    Marco de Canaveses    Várzea da Ovelha e Aliviada    2 294     1 436 | 24-12-2016
+00000873 | Basílio Máxima Malheiro | Bragança    Bragança    Rio de Onor    126    4 537 | 11-04-2016
+00000874 | Rosária Cantanhede | Viana do castelo    Viana do Castelo    Vila Mou    564    302 | 11-06-2016
+00000875 | Armindo André Garrau Alcântara | Bragança    Miranda do Douro    Cicouro    105    1 451 | 11-04-2016
+00000876 | Januário Sebastião Pegado | Porto    Vila Nova de Gaia    Oliveira do Douro    23 384     672 | 07-07-2016
+00000877 | Caetana Sosa | Guarda    Pinhel    Gouveia    358    2 632 | 24-07-2016
+00000878 | Glena Alexandra Vilarim | Bragança    Macedo de Cavaleiros    Arcas    389    2 312 | 16-04-2016
+00000879 | Assunta Malho | Castelo Branco    Proença-a-Nova    Alvito da Beira    436    3 626 | 24-09-2016
+00000880 | Olinda Bonifácio Espartero | Bragança    Mirandela    Valverde    198    1 759 | 03-01-2016
+00000881 | Bartolomeu Júlia Queirós | Coimbra    Lousã    Lousã    10 395     5 739 | 12-01-2016
+00000882 | Serena Sueli Marmou | Viana do castelo    Arcos de Valdevez    Couto    641    620 | 23-06-2016
+00000883 | Dúnia Evelina Mexia | Aveiro    Anadia    Moita    2 733     3 399 | 08-01-2016
+00000884 | Ezequias Andreia Mangueira | Viana do castelo    Ponte de Lima    Mato    285    250 | 10-04-2016
+00000885 | Graziela Rocha | Coimbra    Coimbra    Castelo Viegas    1 771     711 | 04-08-2016
+00000886 | Mário Carmo Hernandes Villaça | Vila Real    Valpaços    S. João da Corveira    721    1 430 | 12-03-2016
+00000887 | Alberta Jessica Barroqueiro Caniça | Braga    Fafe    Estorãos    1 588     797 | 25-07-2016
+00000888 | Ariela Assunta Figueiroa | Bragança    Vila Flor    Candoso    207    708 | 08-08-2016
+00000889 | Capitolino Márcia Farias Regueira | Leiria    Caldas da Rainha    Salir do Porto    770    991 | 09-01-2016
+00000890 | Natanael Belarmino Martinho Coito | Lisboa    Loures    Santo Antão do Tojal    4 192     1 510 | 10-05-2016
+00000891 | Eulália Vergueiro | Porto    Vila Nova de Gaia    Grijó    10 267     1 146 | 10-02-2016
+00000892 | Hernâni Silvéria Reis | Bragança    Vila Flor    Trindade    177    1 350 | 26-02-2016
+00000893 | Leila Peseiro | Viana do castelo    Caminha    Âncora    1 058     576 | 25-03-2016
+00000894 | Soraia Timóteo Fiães Berenguer | Guarda    Pinhel    Gouveia    358    2 632 | 07-10-2016
+00000895 | Morgana Alessandra Café | Viana do castelo    Ponte de Lima    Labruja    482    1 673 | 18-06-2016
+00000896 | Elizabeth Soto Mayor  | Viseu    Sernancelhe    Paradela    151    580 | 30-12-2016
+00000897 | Lisandra Calebe Sobral | Lisboa    Sobral de Monte Agraço    Sapataria    2 558     1 440 | 27-06-2016
+00000898 | Andreia Esaú Matos | Viana do castelo    Monção    Trute    278    471 | 25-01-2016
+00000899 | Marisela Assunção | Bragança    Macedo de Cavaleiros    Talhas    417    4 360 | 03-08-2016
+00000900 | Serena Rezende | Braga    Fafe    Arões ( Sta. Cristina)    1 352     355 | 06-12-2016
+00000901 | Patrícia Renato França Espargosa | Lisboa    Lisboa    Encarnação    3 182     15 | 01-02-2016
+00000902 | Leticia Lúcia Castanheira | Guarda    Guarda    Panóias de Cima    573    1 265 | 19-03-2016
+00000903 | Andreia Otoniel Coitinho | Porto    Baião    Covelas    724    620 | 07-01-2016
+00000904 | Margarete Agnes Morgado | Lisboa    Oeiras    Queijas    8 771     735 | 24-05-2016
+00000905 | Hélio Tigre | Braga    Celorico de Basto    Moreira do Castelo    615    576 | 20-02-2016
+00000906 | Levi Argeu Porto | Viseu    Carregal do Sal    Sobral    292    511 | 23-07-2016
+00000907 | Florência Natacha Caeira Delgado | Braga    Guimarães    Figueiredo    484    211 | 30-12-2016
+00000908 | Firmina Glaucia Quinta | Vila Real    Murça    Valongo de Milhais    442    2 238 | 26-03-2016
+00000909 | Custódio Inácio | Braga    Barcelos    Manhente    1 587     371 | 14-06-2016
+00000910 | Clóvis Eduardo Vilaverde | Viseu    Lamego    Melcões    126    197 | 24-09-2016
+00000911 | Fabiana Quintela | Porto    Póvoa de Varzim    Laundos    2 131     969 | 04-12-2016
+00000912 | Alfeu Amanda Quaresma Carvalhal | Braga    Celorico de Basto    Carvalho    838    751 | 12-02-2016
+00000913 | Rosana Basílio Macena | Vila Real    Chaves    Nogueira da Montanha    693    1 692 | 20-09-2016
+00000914 | Caio Rúben Semedo Quezado | Castelo Branco    Fundão    Castelejo    824    2 948 | 24-11-2016
+00000915 | Érica Amândio Granjeia Minho | Viseu    Resende    Resende    2 873     1 199 | 21-11-2016
+00000916 | Valério Abel Telles Abranches | Viana do castelo    Viana do Castelo    Areosa    4 485     1 122 | 24-10-2016
+00000917 | Apolinário Joel Maciel | Castelo Branco    Idanha-a-Nova    Aldeia de Sta. Margarida    369    1 360 | 16-06-2016
+00000918 | Diogo Heidi Braz Tavares | Porto    Porto    Aldoar    13 957     236 | 24-02-2016
+00000919 | Acácio Igrejas | Viseu    Moimenta da Beira    Paradinha    133    629 | 02-06-2016
+00000920 | Hermínia Cleusa Mexia | Braga    Braga    Vimieiro    1 131     281 | 15-09-2016
+00000921 | Cloe Danilo Soto | Vila Real    Chaves    Loivos    629    1 174 | 20-05-2016
+00000922 | Altino Maurício Silvestre | Açores    Ribeira Grande    Pico da Pedra    2 426     656 | 06-01-2016
+00000923 | Edgar Curado | Braga    Braga    Este (S. Mamede)    1 709     578 | 11-10-2016
+00000924 | Noémia Vicente Morgado Rosa | Viana do castelo    Viana do Castelo    Subportela    1 337     525 | 19-02-2016
+00000925 | Maitê Telmo Bogalho | Açores    Ribeira Grande    Ribeira Grande (Matriz)    3 552     1 082 | 05-04-2016
+00000926 | Diva Velasques | Guarda    Mêda    Vale Flor    227    1 676  | 02-06-2016
+00000927 | Benvinda Belchiorinho | Madeira    Ribeira Brava    Campanário    4 131     1 180 | 08-05-2016
+00000928 | Pedro Laila Robalo Godinho | Bragança    Bragança    Aveleda    253    6 463 | 24-07-2016
+00000929 | Antonieta Lins | Beja    Beja    Quintos    310    13 970 | 25-04-2016
+00000930 | Olavo Nabal Brum | Lisboa    Torres Vedras    Monte Redondo    787    911 | 25-07-2016
+00000931 | Carmo Mónica Souto Ventura | Açores    Lagoa (Açores)    Lagoa (Sta. Cruz)    3 501     1 426 | 05-01-2016
+00000932 | Leonardo Melissa Cordeiro | Vila Real    Valpaços    S. Pedro de Veiga de Lila    400    1 940 | 18-08-2016
+00000933 | Joyce Leda Mendoza | Bragança    Vinhais    S. Jomil    62    796 | 14-10-2016
+00000934 | Hugo Nazário Sobreira Vilaverde | Viana do castelo    Ponte de Lima    Gaifar    306    301 | 01-07-2016
+00000935 | Mavilde Augusta Malheiro | Coimbra    Cantanhede    Outil    865    1 513 | 23-06-2016
+00000936 | Hamilton Tristão Moreno Vergueiro | Viseu    Moimenta da Beira    Peva    513    1 992 | 05-07-2016
+00000937 | Arménio Edelina Caeiro | Porto    Baião    Gestaçô    1 417     1 408 | 20-03-2016
+00000938 | Maristela Eva Filipe | Aveiro    Sta. Maria da Feira    Louredo    1 459     867 | 08-06-2016
+00000939 | Aponino Dalila Góis Penha | Porto    Vila Nova de Gaia    Seixezelo    1 729     161 | 27-01-2016
+00000940 | Elias Genoveva Azambuja Pereira | Vila Real    Alijó    Alijó    2 806     2 936 | 31-03-2016
+00000941 | Loide Eulália Mourinho Nobre | Aveiro    Castelo de Paiva    Fornos    1 602     439 | 12-07-2016
+00000942 | Mara Hugo Vasques Pinheiro | Viana do castelo    Viana do Castelo    Neiva    1 267     657 | 22-01-2016
+00000943 | Élio Kevin Bezerra | Viana do castelo    Viana do Castelo    Alvarães    2 691     1 024 | 25-05-2016
+00000944 | Dória Regalado | Braga    Guimarães    Urgezes    5 124     462 | 23-11-2016
+00000945 | Liana Albina Caldeira | Braga    Esposende    Vila Chã    1 410     830 | 17-01-2016
+00000946 | Belmiro Aldina Guterres Ventura | Castelo Branco    Castelo Branco    Sobral do Campo    516    3 129 | 28-04-2016
+00000947 | Custódia Azeredo | Porto    Amarante    Bustelo    577    665 | 18-10-2016
+00000948 | Tâmara Aveiro | Aveiro    Águeda    Travassô    1 727     816 | 14-09-2016
+00000949 | Débora Fabrício Porciúncula | Castelo Branco    Proença-a-Nova    Montes da Senhora    925    3 373 | 23-11-2016
+00000950 | Nair Cloe Regueira | Viseu    Tarouca    Granja Nova    410    686 | 30-07-2016
+00000951 | Josefina Irina Pastana | Aveiro    Oliveira de Azemeis    Pinheiro da Bemposta    3 621     890 | 06-09-2016
+00000952 | Ernesto Moutinho | Faro    Loulé    Loulé (S. Sebastião)    6 734     6 731 | 25-08-2016
+00000953 | Vilela Gervásio Hollanda Cachoeira | Guarda    Guarda    Benespera    346    1 815 | 02-08-2016
+00000954 | Idalécio Alberto Belo | Coimbra    Tábua    Tábua    3 035     2 461 | 12-12-2016
+00000955 | Ramiro Edmundo Abreu | Bragança    Mirandela    Lamas de Orelhão    462    1 939 | 12-01-2016
+00000956 | Sabrina Octávia Bugalho | Guarda    Gouveia    Figueiró da Serra    303    1 431 | 04-01-2016
+00000957 | Tadeu Gisela Varela Ferro | Leiria    Peniche    Serra d'El-Rei    1 377     916 | 06-08-2016
+00000958 | Nicolau Assunta Mexia Sanches | Bragança    Alfândega da Fé    Gebelim    259    1 900 | 25-04-2016
+00000959 | Avelina Pegado | Bragança    Macedo de Cavaleiros    Ferreira    222    1 957 | 04-09-2016
+00000960 | Jacob Luciana Guerra | Porto    Vila Nova de Gaia    Mafamude    38 940     539 | 11-11-2016
+00000961 | Petra Luca Palma | Viana do castelo    Ponte de Lima    Correlhã    3 068     804 | 22-04-2016
+00000962 | Lisandra Salvado | Bragança    Mirandela    Avantos    123    1 289 | 18-05-2016
+00000963 | Milene Osmar Pessanha | Aveiro    Arouca    Albergaria da Serra    140    1 472 | 12-03-2016
+00000964 | Wilian Asdrúbal Brum | Porto    Trofa    Bougado (Santiago)    6 759     1 586 | 03-09-2016
+00000965 | Plácido Marisa Cavadas | Braga    Celorico de Basto    Arnóia    1 919     2 193 | 10-08-2016
+00000966 | Ester Robalinho | Vila Real    Montalegre    Ferral    547    1 583 | 05-08-2016
+00000967 | Bráulio Peralta | Bragança    Mogadouro    Vila de Ala    359    2 652 | 21-06-2016
+00000968 | Godofredo Tomé Pinheiro Caldas | Guarda    Sabugal    Vila do Touro    299    2 246 | 26-04-2016
+00000969 | Hilário Katia Avelar | Vila Real    Peso da Régua    Peso da Régua    5 080     576 | 08-01-2016
+00000970 | Clara Olímpia Carrasco | Guarda    Mêda    Pai Penela    95    588 | 20-12-2016
+00000971 | Melanie Gervásio Aguiar Travassos | Guarda    Mêda    Ranhados    335    2 546 | 18-04-2016
+00000972 | Vanusa Caparica | Açores    Ponta Delgada    Rosto do Cão (Livramento)    3 489     557 | 23-03-2016
+00000973 | Lucrécia Hipólito | Évora    Portel    Monte do Trigo    1 245     10 701 | 25-02-2016
+00000974 | Josefa Amável Bencatel Barreto | Évora    Borba    Orada    878    5 083 | 08-01-2016
+00000975 | Leda Clarissa Távora | Santarem    Entroncamento    Entroncamento        18 173     1 371 | 22-07-2016
+00000976 | Nélson Valadares Milheirão | Açores    Nordeste    Salga    550    855 | 14-07-2016
+00000977 | Benedito Pais | Coimbra    Figueira da Foz    Buarcos    8 051     1 214 | 31-10-2016
+00000978 | Dirce Ermengarda Torcato Nogueira | Vila Real    Vila Pouca de Aguiar    Pensalvos    379    2 315 | 28-05-2016
+00000979 | Jacob Leandra Espartero | Porto    Paços de Ferreira    Eiriz    2 123     486 | 06-11-2016
+00000980 | Plácida Maísa Eiró | Porto    Vila Nova de Gaia    Serzedo    7 547     762 | 25-05-2016
+00000981 | Vieira Acácio Farinha Caniça | Viseu    Tabuaço    Tabuaço    1 780     1 116 | 03-04-2016
+00000982 | Fedra Nina Gabeira Tavares | Faro    Tavira    Conceição    1 446     6 118 | 27-12-2016
+00000983 | Frederica Caires | Porto    Santo Tirso    Areias    2 599     277 | 23-08-2016
+00000984 | Roberto Bárbara Zarco | Bragança    Moncorvo    Maçores    223    1 601 | 19-10-2016
+00000985 | Ofélia Lourival Villas Boas Penha | Beja    Alvito    Alvito    1 360     13 639 | 05-12-2016
+00000986 | Lívio Leda Boga Mascarenhas | Vila Real    Vila Pouca de Aguiar    Capeludos    602    2 227 | 14-05-2016
+00000987 | Altina Francelina Martínez Peixoto | Braga    Vieira do Minho Soutelo    215    629 | 26-03-2016
+00000988 | Luis Aníbal Aragão Telinhos | Guarda    Sabugal    Santo Estêvão    360    2 359 | 10-08-2016
+00000989 | Catarina Brenda Veleda | Porto    Santo Tirso    Couto (Sta. Cristina)    3 923     779 | 07-05-2016
+00000990 | Brígido Benedita Mayor | Vila Real    Montalegre    Gralhas    235    2 082 | 14-02-2016
+00000991 | Esdras Dorisse Soto Mayor  | Viseu    Tarouca    Mondim da Beira    747    526 | 06-03-2016
+00000992 | Lília Cinira Sales Rebocho | Porto    Penafiel    Rans    1 652     511 | 01-09-2016
+00000993 | Soraia Nelma Bessa | Guarda    Almeida    Almeida    1 491     5 234 | 11-08-2016
+00000994 | Fábia Rebello | Setúbal    Barreiro    Barreiro    8 822     373 | 24-04-2016
+00000995 | Virgolina Eliana Onofre | Guarda    Vila Nova de Foz Côa    Custóias    278    889 | 17-12-2016
+00000996 | Tabita Ado Carvalhal Linares | Viseu    Armamar    Sta. Cruz    231    697 | 22-02-2016
+00000997 | Orlando Quirino Sá Rêgo | Porto    Vila Nova de Gaia    S. Felix da Marinha    11 171     900 | 02-06-2016
+00000998 | Kirina Edite Lobato Galante | Braga    Póvoa de Lanhoso (N. S. do Amparo)    Brunhais    332    344 | 05-01-2016
+00000999 | Malvina Álvaro | Castelo Branco    Oleiros    Orvalho    689    3 479 | 06-01-2016
