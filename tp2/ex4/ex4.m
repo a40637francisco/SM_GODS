@@ -1,9 +1,9 @@
-function ex4()
-
- disp('1 - Convert video');
- disp('2 - Extract images');
- i = input('Option:','s');
- decideAction(i);
+function ex4()    
+    disp('1 - Convert video');
+    disp('2 - Extract images');
+    disp('3 - Extract audio');
+    i = input('Option:','s');
+    decideAction(i);
 end
 
 function decideAction(i)
@@ -16,7 +16,12 @@ switch i
         file = chooseFile();
         beginTime = input('Being time:','s');
         finalTime = input('Final time:','s');
-        extractImages(file, beginTime, finalTime);   
+        extractImages(file, beginTime, finalTime);
+    case '3'       
+        file = chooseFile();
+        beginTime = input('Being time:','s');
+        finalTime = input('Final time:','s');
+        extractAudio(file, beginTime, finalTime);  
     otherwise
         disp('Invalid index');
 end        
@@ -72,27 +77,48 @@ function convertVideo(file, format)
    outFile = input('Output file name:' , 's');
    exe = ['.\ConvertVideo\ffmpeg.exe -i ' file ' .\Outputs\' outFile '.' format ];   
    system(exe);
-   if exist(file, 'file')==2
-    delete(file);
+   matches = strfind(file,'.\InputVideo\');
+   isYtbe = isempty(matches);
+   if isYtbe ==1 && exist(file, 'file')==2
+       delete(file);
    end
 end
 
 %time in seconds
 function extractImages(file, beginTime, finalTime)
-rmdir('.\Frames', 's');
-mkdir Frames
-video = VideoReader(file);
-video.CurrentTime =  str2double(beginTime);
-finalTime = str2double(finalTime);
-index = 1;
-while video.CurrentTime < finalTime;
-    imgName = ['.\Frames\frame' num2str(index) '.jpg'];
-    frame = readFrame(video);
-    imwrite(frame, imgName);
-    index = index + 1;
+    rmdir('.\Frames', 's');
+    mkdir Frames
+    video = VideoReader(file);
+    video.CurrentTime =  str2double(beginTime);
+    finalTime = str2double(finalTime);
+    index = 1;
+    while video.CurrentTime < finalTime;
+        imgName = ['.\Frames\frame' num2str(index) '.jpg'];
+        frame = readFrame(video);
+        imwrite(frame, imgName);
+        index = index + 1;
+    end
+    matches = strfind(file,'.\InputVideo\');
+    isYtbe = isempty(matches);
+    if isYtbe ==1 && exist(file, 'file')==2
+        delete(file);
+    end
 end
-if exist(file, 'file')==2
+
+function extractAudio(file, beginTime, finalTime)
+   format = input('Format[mp3, wav, ogg, ...]:' , 's');
+   outFile = input('Output file name[No format]:' , 's');
+   outFileAll = ['.\Outputs\' outFile '.' format];
+   if exist(outFileAll, 'file')==2
+    delete(outFileAll);
+   end
+   duration = num2str(str2double(finalTime) - str2double(beginTime));
+   binaryRate = input('Binary Rate[Kbs]:' , 's');
+   exe = ['.\ConvertVideo\ffmpeg.exe -i ' file ' -f ' format ' -ss ' beginTime ' -t ' duration ' -ab ' binaryRate ' -vn ' outFileAll ];   
+   system(exe);
+   matches = strfind(file,'.\InputVideo\');
+   isYtbe = isempty(matches);
+   if isYtbe ==1 && exist(file, 'file')==2
     delete(file);
+   end
 end
-end
-%https://youtu.be/RtBbinpK5XI
