@@ -26,7 +26,7 @@ function [compRatio] = GolombDecomposition( file , M ,predictor)
        end
        golombCode = cell{1,1};
        word = num2str(golombCode);
-       word = word(find(~isspace(word)));
+       word = word((~isspace(word)));
        fprintf(fid,'%s \n',word);
        nbits = nbits + length(word);
    end
